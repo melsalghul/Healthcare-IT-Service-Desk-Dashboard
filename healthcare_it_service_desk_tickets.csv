@@ -1,0 +1,1201 @@
+Ticket_ID,Opened_Date,Department,Issue_Category,Priority,Device_or_Application,Resolution_Hours,Escalated,First_Contact_Resolution,User_Satisfaction,Status
+HIT-01200,2026-01-01,Surgery,Printer,Medium,Laptop,20.96,Yes,No,4.6,Resolved
+HIT-01146,2026-01-01,Pharmacy,Telehealth,Medium,Network Device,35.37,No,Yes,4.3,Resolved
+HIT-01138,2026-01-01,Emergency Department,Telehealth,High,Printer,9.31,No,No,4.1,Resolved
+HIT-00123,2026-01-01,Cardiology,EHR Access,Medium,Workstation,9.64,No,Yes,5.0,Resolved
+HIT-00476,2026-01-01,Laboratory,Network,Medium,Mobile Device,69.43,Yes,No,4.8,Closed
+HIT-00829,2026-01-01,Laboratory,EHR Access,Low,Network Device,40.38,No,Yes,3.6,Resolved
+HIT-00739,2026-01-01,Surgery,Network,Medium,Laptop,21.85,No,Yes,4.7,Resolved
+HIT-00438,2026-01-01,Surgery,Telehealth,High,Desktop,8.47,No,Yes,4.1,Resolved
+HIT-00852,2026-01-01,Administration,EHR Access,Medium,Application,23.89,No,Yes,4.8,Closed
+HIT-00634,2026-01-01,Administration,Clinical Application,Low,Network Device,26.0,No,Yes,3.7,Resolved
+HIT-01006,2026-01-01,Pharmacy,Printer,Medium,Mobile Device,14.35,No,Yes,5.0,Resolved
+HIT-00959,2026-01-01,Administration,Hardware,Low,Network Device,27.2,Yes,No,4.6,Resolved
+HIT-00663,2026-01-01,Laboratory,Clinical Application,Low,Mobile Device,31.04,No,Yes,4.2,Resolved
+HIT-00248,2026-01-02,Pharmacy,EHR Access,High,Mobile Device,5.09,No,Yes,4.9,Closed
+HIT-00194,2026-01-02,Laboratory,Clinical Application,Medium,Laptop,36.4,No,Yes,4.0,Resolved
+HIT-00065,2026-01-02,Cardiology,Clinical Application,High,Laptop,6.8,No,Yes,4.8,Resolved
+HIT-00019,2026-01-02,Radiology,Hardware,High,Printer,19.61,No,Yes,4.0,Closed
+HIT-00482,2026-01-02,Laboratory,EHR Access,Critical,Laptop,1.14,No,Yes,5.0,Resolved
+HIT-00220,2026-01-03,Radiology,Password/Account,Medium,Application,23.32,No,Yes,3.6,Closed
+HIT-00753,2026-01-03,Primary Care,Hardware,Medium,Mobile Device,34.49,Yes,No,4.9,Resolved
+HIT-00729,2026-01-03,Radiology,Password/Account,High,Network Device,17.06,No,Yes,5.0,Resolved
+HIT-00168,2026-01-03,Emergency Department,Printer,Medium,Laptop,31.04,Yes,No,3.0,Resolved
+HIT-00667,2026-01-03,Emergency Department,Telehealth,Medium,Mobile Device,25.12,No,Yes,3.3,Resolved
+HIT-00969,2026-01-03,Cardiology,Password/Account,Medium,Laptop,37.19,Yes,No,5.0,Resolved
+HIT-00870,2026-01-03,Surgery,Network,Medium,Workstation,24.84,No,Yes,4.8,Closed
+HIT-00069,2026-01-04,Pharmacy,Other,Critical,Printer,1.93,No,Yes,4.5,Resolved
+HIT-00918,2026-01-04,Cardiology,Clinical Application,Medium,Workstation,12.71,No,Yes,3.2,Resolved
+HIT-00935,2026-01-04,Laboratory,Network,High,Application,6.7,No,No,4.3,Resolved
+HIT-00742,2026-01-04,Emergency Department,EHR Access,Critical,Laptop,0.63,No,Yes,5.0,Resolved
+HIT-00478,2026-01-04,Administration,Telehealth,Medium,Desktop,10.5,Yes,No,4.1,Resolved
+HIT-00315,2026-01-04,Cardiology,Telehealth,Low,Network Device,36.12,No,Yes,4.8,Resolved
+HIT-01021,2026-01-05,Primary Care,EHR Access,Medium,Laptop,43.74,No,Yes,3.6,Closed
+HIT-01086,2026-01-05,Administration,Printer,Medium,Mobile Device,28.06,No,Yes,2.8,Resolved
+HIT-00703,2026-01-05,Pharmacy,Printer,Medium,Network Device,9.99,No,Yes,4.8,Closed
+HIT-01072,2026-01-05,Surgery,Password/Account,Low,Desktop,54.68,No,Yes,4.8,Resolved
+HIT-00404,2026-01-05,Radiology,Printer,Medium,Mobile Device,22.12,No,Yes,4.5,Resolved
+HIT-00822,2026-01-05,Radiology,Clinical Application,High,Network Device,14.24,No,Yes,3.6,Resolved
+HIT-00104,2026-01-05,Administration,Printer,Low,Workstation,55.69,Yes,No,3.2,Resolved
+HIT-00974,2026-01-05,Radiology,Password/Account,Medium,Laptop,33.0,No,Yes,4.5,Resolved
+HIT-00124,2026-01-05,Radiology,Network,Low,Laptop,76.69,Yes,No,4.6,Resolved
+HIT-00601,2026-01-05,Laboratory,EHR Access,Low,Printer,63.84,No,Yes,4.5,Resolved
+HIT-00406,2026-01-06,Pharmacy,Password/Account,Medium,Desktop,25.45,No,Yes,5.0,Closed
+HIT-00932,2026-01-06,Radiology,Password/Account,Low,Printer,42.17,No,Yes,4.7,Resolved
+HIT-00323,2026-01-06,Surgery,Printer,Medium,Desktop,38.91,No,Yes,3.5,Resolved
+HIT-00725,2026-01-06,Laboratory,Network,Medium,Laptop,16.74,Yes,No,5.0,Resolved
+HIT-00796,2026-01-06,Radiology,Email,Medium,Application,26.29,No,Yes,4.3,Resolved
+HIT-00905,2026-01-06,Administration,Printer,High,Printer,9.17,Yes,No,4.3,Resolved
+HIT-00592,2026-01-07,Pharmacy,Password/Account,Medium,Mobile Device,19.57,No,Yes,4.3,Closed
+HIT-00242,2026-01-07,Surgery,Email,Medium,Application,19.61,Yes,No,5.0,Resolved
+HIT-00869,2026-01-07,Radiology,Password/Account,High,Mobile Device,3.42,No,Yes,4.2,Resolved
+HIT-00807,2026-01-08,Radiology,Password/Account,High,Mobile Device,9.45,No,Yes,5.0,Resolved
+HIT-00375,2026-01-08,Administration,Telehealth,Medium,Laptop,21.79,No,Yes,4.1,Resolved
+HIT-00898,2026-01-08,Cardiology,Email,High,Workstation,8.82,Yes,No,3.6,Resolved
+HIT-00513,2026-01-08,Pharmacy,Hardware,Medium,Laptop,16.51,No,Yes,4.6,Closed
+HIT-00400,2026-01-08,Cardiology,Other,Medium,Mobile Device,25.0,Yes,No,5.0,Resolved
+HIT-00853,2026-01-08,Cardiology,Printer,Medium,Laptop,19.27,No,No,4.9,Resolved
+HIT-00057,2026-01-08,Primary Care,Telehealth,Medium,Mobile Device,13.06,Yes,No,3.4,Closed
+HIT-00676,2026-01-08,Emergency Department,Printer,Low,Desktop,68.64,No,No,3.7,Resolved
+HIT-00304,2026-01-08,Administration,Telehealth,Low,Mobile Device,46.01,Yes,No,4.2,Resolved
+HIT-00988,2026-01-09,Administration,EHR Access,High,Network Device,2.84,No,Yes,4.9,Closed
+HIT-00254,2026-01-09,Pharmacy,Network,Medium,Mobile Device,17.22,No,Yes,5.0,Resolved
+HIT-00559,2026-01-09,Administration,Network,Medium,Application,22.06,No,No,2.8,Resolved
+HIT-00092,2026-01-09,Primary Care,EHR Access,High,Application,4.63,No,No,4.7,Resolved
+HIT-00589,2026-01-09,Laboratory,Telehealth,Low,Mobile Device,17.81,No,Yes,3.5,Resolved
+HIT-00049,2026-01-09,Administration,EHR Access,Medium,Application,20.91,No,Yes,5.0,Resolved
+HIT-01071,2026-01-10,Administration,EHR Access,Low,Network Device,49.38,No,Yes,3.8,Resolved
+HIT-00699,2026-01-10,Surgery,Hardware,Critical,Application,1.06,Yes,No,4.2,Closed
+HIT-00973,2026-01-10,Laboratory,Password/Account,Medium,Mobile Device,12.69,No,Yes,3.8,Resolved
+HIT-00468,2026-01-10,Primary Care,Password/Account,High,Network Device,22.45,No,Yes,4.4,Resolved
+HIT-00710,2026-01-11,Primary Care,Telehealth,Medium,Workstation,47.9,No,Yes,5.0,Closed
+HIT-01014,2026-01-11,Laboratory,Hardware,Medium,Network Device,22.27,No,Yes,3.7,Resolved
+HIT-01136,2026-01-11,Surgery,Printer,Medium,Desktop,48.62,No,Yes,4.6,Resolved
+HIT-01103,2026-01-11,Administration,EHR Access,Medium,Workstation,12.43,Yes,No,3.5,Resolved
+HIT-00236,2026-01-11,Surgery,Printer,Low,Network Device,96.0,No,Yes,4.3,Resolved
+HIT-00506,2026-01-12,Cardiology,Printer,Low,Application,23.93,No,Yes,4.4,Resolved
+HIT-00669,2026-01-12,Administration,Other,High,Workstation,12.43,No,Yes,4.2,Closed
+HIT-00539,2026-01-12,Pharmacy,Hardware,Medium,Desktop,12.05,Yes,No,4.3,Resolved
+HIT-00496,2026-01-12,Pharmacy,Email,Medium,Network Device,32.24,No,Yes,4.8,Closed
+HIT-00756,2026-01-12,Pharmacy,Network,Critical,Laptop,2.7,No,Yes,4.6,Closed
+HIT-00109,2026-01-12,Cardiology,Hardware,High,Desktop,8.48,No,No,4.5,Resolved
+HIT-00185,2026-01-12,Surgery,Network,High,Network Device,6.85,Yes,No,5.0,Resolved
+HIT-00831,2026-01-12,Emergency Department,Password/Account,Medium,Network Device,19.51,No,Yes,3.9,Resolved
+HIT-00144,2026-01-13,Emergency Department,EHR Access,Low,Mobile Device,96.0,No,Yes,5.0,Resolved
+HIT-00416,2026-01-13,Emergency Department,Network,Medium,Desktop,27.3,No,Yes,4.9,Resolved
+HIT-00367,2026-01-13,Cardiology,Email,Low,Mobile Device,86.3,No,Yes,3.9,Closed
+HIT-00541,2026-01-13,Radiology,Password/Account,Low,Network Device,96.0,No,Yes,4.4,Resolved
+HIT-00979,2026-01-13,Administration,Hardware,High,Desktop,4.06,No,Yes,4.3,Resolved
+HIT-00887,2026-01-13,Emergency Department,Hardware,Medium,Desktop,12.81,No,Yes,4.8,Resolved
+HIT-01036,2026-01-14,Laboratory,Password/Account,Medium,Desktop,56.57,No,Yes,5.0,Closed
+HIT-01016,2026-01-14,Radiology,Password/Account,Medium,Printer,20.52,Yes,No,2.7,Closed
+HIT-00074,2026-01-14,Laboratory,Network,Critical,Laptop,1.41,Yes,No,5.0,Closed
+HIT-00660,2026-01-14,Pharmacy,Hardware,Medium,Printer,14.77,No,Yes,5.0,Resolved
+HIT-00860,2026-01-14,Laboratory,Printer,Low,Workstation,21.58,No,Yes,3.5,Closed
+HIT-00866,2026-01-14,Emergency Department,Network,High,Printer,2.26,No,Yes,3.2,Closed
+HIT-00048,2026-01-14,Administration,Hardware,Medium,Network Device,50.42,Yes,No,3.9,Resolved
+HIT-00004,2026-01-15,Surgery,Email,Low,Application,32.83,No,Yes,3.8,Resolved
+HIT-01058,2026-01-15,Pharmacy,Clinical Application,Medium,Laptop,25.95,Yes,No,5.0,Closed
+HIT-01083,2026-01-15,Surgery,Clinical Application,Medium,Mobile Device,25.28,No,Yes,5.0,Resolved
+HIT-00397,2026-01-15,Laboratory,Email,High,Network Device,27.01,No,Yes,4.1,Closed
+HIT-00877,2026-01-15,Laboratory,Printer,Critical,Mobile Device,0.83,Yes,No,3.7,Resolved
+HIT-00087,2026-01-15,Pharmacy,Clinical Application,Low,Printer,96.0,Yes,No,3.0,Resolved
+HIT-00077,2026-01-15,Radiology,Network,High,Printer,3.69,No,Yes,5.0,Resolved
+HIT-00129,2026-01-15,Laboratory,Email,Medium,Application,20.93,Yes,No,5.0,Closed
+HIT-00032,2026-01-15,Emergency Department,Password/Account,Medium,Printer,31.36,No,Yes,4.4,Resolved
+HIT-00447,2026-01-16,Cardiology,EHR Access,Medium,Network Device,22.04,Yes,No,2.9,Resolved
+HIT-00671,2026-01-16,Administration,Hardware,Medium,Printer,13.6,No,Yes,3.3,Closed
+HIT-00479,2026-01-16,Surgery,Network,High,Printer,7.65,No,Yes,3.4,Resolved
+HIT-00987,2026-01-17,Cardiology,EHR Access,High,Laptop,16.87,No,Yes,5.0,Resolved
+HIT-00881,2026-01-17,Surgery,Password/Account,Medium,Network Device,31.15,No,Yes,4.2,Resolved
+HIT-00354,2026-01-17,Cardiology,Email,Medium,Workstation,19.06,No,Yes,4.5,Resolved
+HIT-01171,2026-01-17,Pharmacy,Printer,High,Desktop,1.25,No,Yes,5.0,Resolved
+HIT-00792,2026-01-17,Administration,Password/Account,Low,Desktop,18.34,No,No,3.9,Resolved
+HIT-00318,2026-01-17,Cardiology,Clinical Application,High,Printer,5.99,No,No,2.9,Resolved
+HIT-00546,2026-01-17,Laboratory,Clinical Application,High,Laptop,3.77,No,Yes,2.9,Resolved
+HIT-00874,2026-01-18,Pharmacy,Password/Account,Medium,Mobile Device,14.64,No,Yes,4.9,Resolved
+HIT-00044,2026-01-18,Emergency Department,Other,Low,Printer,62.35,No,Yes,3.6,Resolved
+HIT-00338,2026-01-18,Cardiology,Clinical Application,Medium,Application,42.03,No,Yes,4.7,Resolved
+HIT-00954,2026-01-19,Primary Care,Network,Medium,Application,19.44,No,No,4.3,Closed
+HIT-00622,2026-01-19,Pharmacy,Password/Account,Low,Workstation,54.82,No,No,4.6,Resolved
+HIT-00617,2026-01-19,Pharmacy,Hardware,Medium,Laptop,33.76,No,No,5.0,Resolved
+HIT-00553,2026-01-19,Primary Care,Hardware,Medium,Desktop,19.07,No,Yes,3.9,Resolved
+HIT-00425,2026-01-19,Emergency Department,Clinical Application,Medium,Laptop,20.71,No,Yes,3.1,Closed
+HIT-00373,2026-01-20,Emergency Department,EHR Access,Medium,Application,33.03,No,Yes,3.5,Resolved
+HIT-00656,2026-01-20,Radiology,EHR Access,Medium,Application,8.95,No,Yes,4.3,Closed
+HIT-00955,2026-01-20,Cardiology,Other,High,Application,13.45,No,Yes,5.0,Resolved
+HIT-00024,2026-01-21,Emergency Department,Network,Low,Laptop,40.58,Yes,No,4.5,Resolved
+HIT-00915,2026-01-21,Laboratory,EHR Access,Low,Application,25.12,No,Yes,2.6,Closed
+HIT-00007,2026-01-21,Surgery,Printer,Low,Workstation,21.07,No,Yes,4.6,Resolved
+HIT-00041,2026-01-21,Radiology,Other,Low,Printer,75.31,Yes,No,3.8,Resolved
+HIT-00527,2026-01-21,Primary Care,Hardware,Low,Desktop,54.35,No,Yes,4.9,Resolved
+HIT-00307,2026-01-21,Primary Care,Password/Account,High,Laptop,6.03,No,Yes,4.1,Closed
+HIT-00821,2026-01-21,Primary Care,Printer,Medium,Network Device,42.94,No,Yes,5.0,Resolved
+HIT-00287,2026-01-21,Administration,Other,High,Printer,3.84,No,Yes,4.0,Resolved
+HIT-00027,2026-01-22,Emergency Department,Email,Medium,Mobile Device,15.92,Yes,No,4.4,Resolved
+HIT-00826,2026-01-22,Pharmacy,Password/Account,High,Printer,6.62,No,No,4.0,Closed
+HIT-00299,2026-01-22,Emergency Department,Password/Account,High,Network Device,6.01,No,Yes,3.5,Resolved
+HIT-00449,2026-01-22,Pharmacy,Other,High,Printer,13.16,Yes,No,5.0,Closed
+HIT-00467,2026-01-23,Radiology,EHR Access,High,Network Device,4.61,No,No,5.0,Resolved
+HIT-00731,2026-01-23,Administration,Printer,High,Laptop,4.99,Yes,No,3.6,Resolved
+HIT-00431,2026-01-23,Administration,Network,Medium,Laptop,28.68,Yes,No,4.5,Resolved
+HIT-01042,2026-01-23,Surgery,Password/Account,High,Printer,6.97,Yes,No,4.8,Resolved
+HIT-00542,2026-01-23,Radiology,Telehealth,Medium,Application,15.75,No,Yes,5.0,Resolved
+HIT-01108,2026-01-23,Radiology,Password/Account,High,Network Device,10.3,No,Yes,5.0,Resolved
+HIT-00327,2026-01-24,Cardiology,Email,Medium,Mobile Device,22.55,Yes,No,5.0,Resolved
+HIT-00082,2026-01-24,Administration,Clinical Application,Low,Laptop,50.38,No,Yes,4.3,Resolved
+HIT-00210,2026-01-24,Pharmacy,Network,High,Workstation,5.25,No,Yes,4.1,Closed
+HIT-00345,2026-01-24,Emergency Department,EHR Access,Low,Laptop,46.5,No,No,4.2,Closed
+HIT-00480,2026-01-24,Administration,EHR Access,Critical,Mobile Device,2.1,No,No,5.0,Resolved
+HIT-00888,2026-01-25,Cardiology,Clinical Application,Medium,Application,17.11,No,Yes,4.4,Resolved
+HIT-00339,2026-01-25,Laboratory,Other,Low,Printer,26.54,No,Yes,4.5,Closed
+HIT-00570,2026-01-25,Laboratory,Password/Account,High,Application,6.73,No,No,4.9,Resolved
+HIT-01177,2026-01-25,Surgery,Printer,High,Printer,6.29,No,Yes,5.0,Closed
+HIT-00885,2026-01-25,Administration,Clinical Application,High,Network Device,3.85,Yes,No,3.1,Resolved
+HIT-00811,2026-01-25,Laboratory,Other,Low,Application,35.18,No,Yes,3.8,Resolved
+HIT-01163,2026-01-25,Administration,Printer,Medium,Printer,11.38,Yes,No,2.7,Closed
+HIT-00362,2026-01-26,Emergency Department,EHR Access,Low,Mobile Device,71.21,Yes,No,3.7,Closed
+HIT-01098,2026-01-26,Radiology,Hardware,High,Desktop,8.58,No,Yes,4.3,Resolved
+HIT-00907,2026-01-26,Primary Care,EHR Access,Low,Printer,36.96,No,Yes,5.0,Closed
+HIT-00712,2026-01-26,Surgery,Printer,High,Mobile Device,4.92,No,No,4.4,Closed
+HIT-00850,2026-01-26,Emergency Department,EHR Access,High,Network Device,7.31,No,Yes,4.6,Resolved
+HIT-00840,2026-01-26,Radiology,Telehealth,High,Workstation,7.81,Yes,No,4.9,Closed
+HIT-00945,2026-01-26,Emergency Department,EHR Access,Low,Printer,26.44,Yes,No,4.1,Resolved
+HIT-00306,2026-01-27,Primary Care,Clinical Application,Medium,Mobile Device,47.38,No,Yes,3.0,Resolved
+HIT-00716,2026-01-27,Laboratory,Email,Medium,Network Device,30.08,No,Yes,4.3,Resolved
+HIT-00599,2026-01-27,Cardiology,Other,High,Network Device,4.96,No,Yes,4.6,Resolved
+HIT-01100,2026-01-27,Cardiology,Clinical Application,High,Desktop,1.63,No,Yes,3.0,Closed
+HIT-00127,2026-01-27,Administration,Password/Account,Low,Mobile Device,28.25,No,Yes,4.5,Resolved
+HIT-00165,2026-01-27,Cardiology,EHR Access,Medium,Workstation,22.43,No,No,4.5,Resolved
+HIT-00305,2026-01-27,Cardiology,EHR Access,Low,Desktop,69.65,No,Yes,4.2,Resolved
+HIT-00684,2026-01-28,Surgery,Hardware,Medium,Workstation,18.13,No,Yes,4.7,Resolved
+HIT-00861,2026-01-28,Cardiology,Hardware,Medium,Application,24.51,No,Yes,4.0,Resolved
+HIT-00310,2026-01-28,Pharmacy,Network,Critical,Mobile Device,0.71,No,Yes,4.1,Closed
+HIT-00560,2026-01-28,Administration,Email,High,Network Device,4.85,No,Yes,4.0,Resolved
+HIT-00106,2026-01-28,Cardiology,Hardware,High,Mobile Device,18.6,No,Yes,3.7,Closed
+HIT-00879,2026-01-28,Laboratory,Password/Account,Low,Laptop,90.52,No,No,5.0,Resolved
+HIT-00155,2026-01-28,Administration,Printer,Medium,Laptop,33.82,No,Yes,3.1,Closed
+HIT-00154,2026-01-28,Pharmacy,Clinical Application,Low,Network Device,96.0,No,Yes,5.0,Resolved
+HIT-00148,2026-01-28,Radiology,Other,Low,Mobile Device,37.97,No,Yes,3.3,Resolved
+HIT-01133,2026-01-29,Radiology,Network,Low,Desktop,46.33,No,Yes,4.6,Closed
+HIT-00787,2026-01-29,Surgery,EHR Access,Critical,Workstation,1.18,Yes,No,4.7,Resolved
+HIT-00456,2026-01-29,Cardiology,Telehealth,Critical,Application,3.09,Yes,No,4.3,Resolved
+HIT-01182,2026-01-29,Emergency Department,Password/Account,Low,Desktop,34.46,Yes,No,4.4,Closed
+HIT-00602,2026-01-29,Administration,Password/Account,Medium,Workstation,18.76,Yes,No,4.5,Resolved
+HIT-00142,2026-01-29,Pharmacy,EHR Access,Medium,Printer,15.17,No,Yes,3.3,Resolved
+HIT-00504,2026-01-29,Pharmacy,EHR Access,Medium,Application,50.35,No,Yes,4.4,Closed
+HIT-00782,2026-01-30,Radiology,EHR Access,High,Mobile Device,8.8,No,Yes,4.4,Resolved
+HIT-00775,2026-01-30,Cardiology,Other,High,Mobile Device,4.94,No,Yes,4.8,Closed
+HIT-01018,2026-01-30,Emergency Department,Clinical Application,High,Desktop,5.34,Yes,No,5.0,Resolved
+HIT-00308,2026-01-30,Cardiology,Telehealth,Medium,Laptop,8.25,No,Yes,5.0,Resolved
+HIT-00701,2026-01-30,Cardiology,EHR Access,High,Laptop,3.96,No,Yes,4.4,Resolved
+HIT-00159,2026-01-30,Cardiology,Other,High,Network Device,6.07,No,No,5.0,Closed
+HIT-00545,2026-01-30,Radiology,Network,Low,Network Device,34.18,No,Yes,5.0,Resolved
+HIT-01129,2026-01-31,Emergency Department,Password/Account,High,Mobile Device,13.96,No,Yes,3.6,Resolved
+HIT-00928,2026-01-31,Pharmacy,Email,Low,Mobile Device,16.91,No,Yes,3.6,Resolved
+HIT-01037,2026-02-01,Emergency Department,Printer,Low,Application,33.12,Yes,No,2.8,Resolved
+HIT-00744,2026-02-01,Emergency Department,Email,Low,Desktop,45.18,No,Yes,5.0,Resolved
+HIT-00383,2026-02-01,Primary Care,Clinical Application,Medium,Workstation,10.87,No,Yes,4.2,Resolved
+HIT-00347,2026-02-01,Primary Care,Other,High,Desktop,4.23,No,No,4.1,Resolved
+HIT-00912,2026-02-02,Cardiology,Network,Low,Workstation,40.37,No,No,4.5,Resolved
+HIT-00285,2026-02-02,Laboratory,EHR Access,Medium,Network Device,15.38,No,Yes,3.6,Resolved
+HIT-00295,2026-02-02,Radiology,Email,High,Application,16.11,No,No,4.8,Resolved
+HIT-01061,2026-02-02,Administration,Email,Medium,Mobile Device,17.45,No,Yes,5.0,Resolved
+HIT-00102,2026-02-02,Pharmacy,Printer,Medium,Laptop,17.19,No,Yes,5.0,Closed
+HIT-00491,2026-02-02,Cardiology,Password/Account,High,Printer,5.23,No,Yes,4.2,Closed
+HIT-00111,2026-02-02,Cardiology,Password/Account,Medium,Workstation,14.91,No,No,3.9,Closed
+HIT-01068,2026-02-02,Pharmacy,Password/Account,High,Workstation,6.67,No,No,4.7,Resolved
+HIT-00465,2026-02-02,Emergency Department,Email,Critical,Laptop,0.62,No,Yes,3.4,Resolved
+HIT-00705,2026-02-02,Administration,Printer,High,Workstation,8.07,Yes,No,4.0,Closed
+HIT-00795,2026-02-03,Laboratory,Password/Account,Medium,Laptop,15.69,Yes,No,3.4,Resolved
+HIT-00745,2026-02-03,Pharmacy,Printer,Medium,Application,8.02,No,Yes,4.7,Closed
+HIT-00834,2026-02-03,Laboratory,Telehealth,Medium,Desktop,20.03,No,Yes,4.6,Resolved
+HIT-00471,2026-02-03,Cardiology,Printer,High,Mobile Device,4.05,Yes,No,3.3,Resolved
+HIT-00896,2026-02-03,Pharmacy,EHR Access,Medium,Mobile Device,35.4,No,No,5.0,Resolved
+HIT-00439,2026-02-03,Laboratory,EHR Access,Medium,Workstation,19.55,No,Yes,5.0,Resolved
+HIT-01161,2026-02-04,Laboratory,Email,Medium,Network Device,22.25,No,Yes,5.0,Closed
+HIT-00119,2026-02-04,Primary Care,Printer,High,Network Device,6.1,No,Yes,5.0,Closed
+HIT-00316,2026-02-04,Surgery,EHR Access,Medium,Laptop,4.19,No,Yes,5.0,Closed
+HIT-00510,2026-02-04,Radiology,Other,Low,Network Device,46.8,No,No,3.0,Resolved
+HIT-00059,2026-02-04,Laboratory,Hardware,High,Application,7.31,Yes,No,5.0,Closed
+HIT-00693,2026-02-04,Laboratory,Email,High,Application,20.13,Yes,No,5.0,Closed
+HIT-01005,2026-02-04,Primary Care,Password/Account,Medium,Desktop,17.96,No,Yes,4.1,Resolved
+HIT-01019,2026-02-04,Primary Care,EHR Access,Medium,Mobile Device,13.53,No,Yes,3.0,Resolved
+HIT-01097,2026-02-05,Pharmacy,Network,High,Printer,7.68,No,Yes,4.0,Closed
+HIT-00851,2026-02-05,Administration,Clinical Application,Medium,Printer,35.83,No,Yes,4.0,Resolved
+HIT-00371,2026-02-05,Surgery,Email,Medium,Printer,39.2,No,Yes,5.0,Resolved
+HIT-00143,2026-02-05,Administration,Other,High,Application,2.93,No,Yes,4.1,Resolved
+HIT-00534,2026-02-05,Cardiology,Hardware,High,Printer,10.52,No,No,5.0,Closed
+HIT-00930,2026-02-05,Laboratory,Password/Account,Medium,Network Device,18.63,No,Yes,4.4,Resolved
+HIT-00614,2026-02-05,Administration,Hardware,High,Workstation,11.53,No,Yes,4.2,Resolved
+HIT-00538,2026-02-06,Radiology,Printer,Medium,Printer,14.65,No,Yes,5.0,Resolved
+HIT-00326,2026-02-06,Primary Care,EHR Access,Low,Application,36.53,No,Yes,3.4,Closed
+HIT-01124,2026-02-06,Pharmacy,Clinical Application,Low,Application,37.48,No,Yes,3.2,Closed
+HIT-00964,2026-02-06,Laboratory,Hardware,Low,Laptop,52.01,No,Yes,3.3,Closed
+HIT-00115,2026-02-06,Administration,Email,High,Workstation,4.02,No,No,4.6,Resolved
+HIT-00252,2026-02-06,Primary Care,Printer,Medium,Workstation,9.17,No,Yes,4.5,Resolved
+HIT-00991,2026-02-07,Cardiology,EHR Access,Critical,Network Device,0.77,No,Yes,3.9,Closed
+HIT-00963,2026-02-07,Pharmacy,EHR Access,Medium,Desktop,22.15,No,Yes,4.1,Resolved
+HIT-01077,2026-02-07,Surgery,Hardware,Medium,Application,18.17,No,No,4.7,Closed
+HIT-01166,2026-02-07,Laboratory,Hardware,Medium,Laptop,28.05,Yes,No,5.0,Closed
+HIT-00301,2026-02-07,Surgery,Password/Account,Medium,Application,42.83,No,Yes,3.5,Resolved
+HIT-01065,2026-02-07,Primary Care,Hardware,Medium,Desktop,14.87,No,Yes,5.0,Resolved
+HIT-00875,2026-02-07,Administration,Password/Account,Low,Workstation,52.26,No,Yes,4.4,Closed
+HIT-01106,2026-02-07,Laboratory,Clinical Application,Medium,Workstation,30.89,No,Yes,4.1,Resolved
+HIT-00771,2026-02-07,Administration,Network,Medium,Printer,10.95,No,No,4.9,Resolved
+HIT-00209,2026-02-07,Cardiology,EHR Access,Low,Laptop,29.88,No,Yes,4.3,Resolved
+HIT-00022,2026-02-07,Pharmacy,Password/Account,High,Application,7.68,No,Yes,4.2,Resolved
+HIT-00186,2026-02-08,Laboratory,Telehealth,Medium,Workstation,24.31,No,Yes,4.2,Resolved
+HIT-00623,2026-02-08,Radiology,EHR Access,Medium,Printer,20.78,No,Yes,4.5,Closed
+HIT-00360,2026-02-08,Radiology,Network,Medium,Application,13.9,No,Yes,4.1,Resolved
+HIT-01051,2026-02-08,Cardiology,Printer,Medium,Workstation,51.32,No,No,5.0,Resolved
+HIT-00577,2026-02-08,Primary Care,Clinical Application,Medium,Printer,19.22,Yes,No,4.1,Resolved
+HIT-01034,2026-02-08,Primary Care,Telehealth,High,Laptop,3.06,No,No,3.6,Resolved
+HIT-00749,2026-02-08,Primary Care,Password/Account,Low,Workstation,83.0,No,Yes,5.0,Resolved
+HIT-00463,2026-02-08,Radiology,Printer,Medium,Network Device,24.1,No,Yes,2.9,Resolved
+HIT-00232,2026-02-08,Laboratory,Password/Account,Low,Printer,30.25,No,Yes,5.0,Resolved
+HIT-00880,2026-02-08,Surgery,Password/Account,High,Printer,2.69,No,No,5.0,Resolved
+HIT-01007,2026-02-09,Administration,Printer,Low,Network Device,50.35,Yes,No,3.6,Resolved
+HIT-01134,2026-02-09,Laboratory,Telehealth,High,Printer,9.52,No,Yes,4.5,Resolved
+HIT-01032,2026-02-09,Radiology,EHR Access,High,Application,7.81,No,Yes,4.8,Resolved
+HIT-00929,2026-02-09,Primary Care,EHR Access,High,Application,8.18,No,Yes,3.4,Closed
+HIT-00078,2026-02-09,Cardiology,Clinical Application,Medium,Application,40.63,No,Yes,4.7,Resolved
+HIT-00105,2026-02-10,Surgery,Email,Low,Desktop,52.13,Yes,No,3.2,Resolved
+HIT-01135,2026-02-10,Radiology,Clinical Application,Medium,Printer,19.63,No,No,3.8,Resolved
+HIT-00085,2026-02-10,Laboratory,Telehealth,Low,Mobile Device,46.19,Yes,No,4.5,Resolved
+HIT-00686,2026-02-10,Cardiology,Email,Low,Application,30.18,Yes,No,4.2,Closed
+HIT-00902,2026-02-11,Emergency Department,Printer,Low,Laptop,47.41,No,Yes,3.3,Closed
+HIT-00240,2026-02-11,Radiology,EHR Access,Medium,Printer,13.73,No,Yes,4.1,Resolved
+HIT-01029,2026-02-11,Surgery,Printer,Medium,Application,44.0,No,Yes,4.5,Resolved
+HIT-00131,2026-02-11,Radiology,EHR Access,Low,Desktop,47.94,No,Yes,4.5,Closed
+HIT-01057,2026-02-11,Administration,Clinical Application,Medium,Workstation,9.8,Yes,No,4.1,Resolved
+HIT-00580,2026-02-11,Administration,Other,Medium,Printer,15.56,No,Yes,5.0,Closed
+HIT-00502,2026-02-12,Administration,Network,Medium,Network Device,15.05,No,Yes,4.0,Resolved
+HIT-00799,2026-02-12,Laboratory,Network,Medium,Network Device,12.12,No,Yes,4.2,Resolved
+HIT-00358,2026-02-12,Surgery,EHR Access,High,Application,13.43,No,Yes,4.9,Closed
+HIT-01099,2026-02-12,Surgery,EHR Access,Low,Desktop,67.4,No,Yes,4.4,Resolved
+HIT-00948,2026-02-13,Administration,Clinical Application,Medium,Mobile Device,10.32,No,Yes,4.7,Resolved
+HIT-00072,2026-02-13,Surgery,Printer,High,Application,10.22,Yes,No,4.0,Closed
+HIT-00157,2026-02-13,Primary Care,Clinical Application,Critical,Network Device,1.12,No,Yes,4.7,Resolved
+HIT-00645,2026-02-13,Pharmacy,Printer,High,Network Device,5.71,No,Yes,4.7,Resolved
+HIT-00503,2026-02-13,Administration,Printer,Medium,Printer,18.88,No,Yes,4.7,Closed
+HIT-00884,2026-02-13,Laboratory,Email,Medium,Application,27.5,No,No,5.0,Closed
+HIT-00837,2026-02-14,Primary Care,Hardware,High,Mobile Device,4.57,No,Yes,3.8,Resolved
+HIT-00612,2026-02-14,Cardiology,Clinical Application,High,Printer,19.95,No,Yes,5.0,Resolved
+HIT-00088,2026-02-14,Emergency Department,Email,Medium,Application,31.64,No,Yes,3.1,Closed
+HIT-00151,2026-02-14,Administration,Network,Medium,Application,8.31,Yes,No,4.0,Resolved
+HIT-01111,2026-02-15,Pharmacy,Password/Account,High,Laptop,3.61,No,Yes,3.5,Resolved
+HIT-00833,2026-02-15,Emergency Department,Printer,Low,Laptop,76.0,No,Yes,3.5,Resolved
+HIT-00692,2026-02-15,Pharmacy,Password/Account,Low,Desktop,35.71,Yes,No,4.5,Resolved
+HIT-00321,2026-02-15,Administration,EHR Access,High,Printer,5.11,No,Yes,5.0,Resolved
+HIT-00329,2026-02-15,Surgery,Password/Account,Medium,Laptop,31.81,No,Yes,4.8,Resolved
+HIT-01139,2026-02-15,Laboratory,Telehealth,Low,Laptop,67.69,No,Yes,5.0,Resolved
+HIT-00508,2026-02-15,Primary Care,Email,High,Desktop,6.01,No,Yes,4.3,Resolved
+HIT-00458,2026-02-16,Administration,Printer,Low,Laptop,26.75,No,Yes,5.0,Resolved
+HIT-01088,2026-02-16,Emergency Department,EHR Access,Medium,Mobile Device,22.12,No,No,5.0,Resolved
+HIT-01080,2026-02-16,Surgery,Clinical Application,Medium,Printer,9.7,No,No,3.8,Resolved
+HIT-00841,2026-02-16,Administration,Email,Low,Application,14.86,No,No,5.0,Resolved
+HIT-00958,2026-02-16,Administration,Email,Medium,Desktop,39.96,No,Yes,4.1,Resolved
+HIT-01109,2026-02-16,Laboratory,Printer,Medium,Printer,36.45,No,Yes,4.8,Resolved
+HIT-00697,2026-02-16,Administration,EHR Access,Medium,Mobile Device,8.69,No,Yes,4.0,Closed
+HIT-00762,2026-02-16,Surgery,Printer,Low,Laptop,18.38,No,No,5.0,Resolved
+HIT-00650,2026-02-16,Emergency Department,Printer,Medium,Mobile Device,72.41,No,Yes,5.0,Closed
+HIT-00658,2026-02-16,Administration,Password/Account,Low,Workstation,96.0,No,Yes,3.6,Resolved
+HIT-00857,2026-02-16,Cardiology,Email,High,Mobile Device,11.91,Yes,No,4.2,Resolved
+HIT-00410,2026-02-16,Pharmacy,Clinical Application,Low,Laptop,96.0,Yes,No,3.9,Resolved
+HIT-00443,2026-02-17,Radiology,Other,Medium,Workstation,13.94,No,No,3.1,Resolved
+HIT-00112,2026-02-17,Laboratory,EHR Access,Medium,Printer,24.56,Yes,No,3.5,Closed
+HIT-00076,2026-02-17,Administration,Network,Low,Network Device,53.59,No,Yes,5.0,Resolved
+HIT-00313,2026-02-17,Surgery,Email,Medium,Workstation,24.33,No,Yes,5.0,Resolved
+HIT-00288,2026-02-17,Administration,EHR Access,Medium,Mobile Device,20.15,Yes,No,4.9,Resolved
+HIT-00250,2026-02-17,Pharmacy,Email,Medium,Printer,15.14,No,Yes,3.6,Resolved
+HIT-00257,2026-02-17,Administration,Password/Account,High,Mobile Device,3.46,No,No,4.3,Closed
+HIT-00847,2026-02-17,Surgery,Network,Medium,Printer,13.59,No,No,3.9,Resolved
+HIT-00393,2026-02-18,Laboratory,EHR Access,Low,Desktop,19.57,Yes,No,4.6,Resolved
+HIT-00317,2026-02-18,Cardiology,Printer,High,Mobile Device,10.11,No,No,5.0,Resolved
+HIT-00659,2026-02-18,Emergency Department,Network,Medium,Application,41.92,No,Yes,3.5,Resolved
+HIT-01198,2026-02-18,Laboratory,Email,Medium,Desktop,23.9,No,Yes,3.6,Resolved
+HIT-00995,2026-02-18,Primary Care,Password/Account,Medium,Mobile Device,20.72,Yes,No,4.8,Closed
+HIT-01188,2026-02-18,Primary Care,EHR Access,High,Laptop,3.43,No,Yes,3.9,Closed
+HIT-00029,2026-02-18,Laboratory,Hardware,Medium,Network Device,20.66,No,Yes,4.4,Resolved
+HIT-00364,2026-02-19,Surgery,Network,Low,Desktop,79.75,No,No,3.2,Resolved
+HIT-00755,2026-02-19,Surgery,Printer,Medium,Mobile Device,37.5,No,No,4.7,Resolved
+HIT-00772,2026-02-19,Radiology,Hardware,Medium,Workstation,12.98,No,Yes,3.5,Resolved
+HIT-00062,2026-02-19,Laboratory,EHR Access,Medium,Desktop,14.11,No,No,4.0,Resolved
+HIT-00174,2026-02-20,Emergency Department,EHR Access,Medium,Network Device,32.21,No,Yes,4.0,Resolved
+HIT-00034,2026-02-20,Surgery,Printer,Medium,Application,31.82,No,Yes,4.4,Closed
+HIT-00784,2026-02-20,Cardiology,Other,High,Printer,11.82,No,Yes,5.0,Resolved
+HIT-01132,2026-02-20,Pharmacy,Network,High,Workstation,13.64,No,Yes,3.6,Resolved
+HIT-00385,2026-02-20,Pharmacy,Email,Medium,Workstation,29.21,No,No,4.3,Resolved
+HIT-00740,2026-02-20,Laboratory,Network,Medium,Desktop,21.89,No,Yes,5.0,Resolved
+HIT-00819,2026-02-20,Pharmacy,Hardware,High,Laptop,10.48,Yes,No,3.5,Closed
+HIT-00039,2026-02-20,Cardiology,Clinical Application,Medium,Network Device,35.89,No,Yes,3.4,Closed
+HIT-00303,2026-02-20,Laboratory,Password/Account,Low,Desktop,61.14,No,Yes,5.0,Resolved
+HIT-00184,2026-02-21,Surgery,Printer,High,Laptop,15.75,No,Yes,4.2,Closed
+HIT-00228,2026-02-21,Pharmacy,Hardware,Critical,Printer,0.32,No,Yes,3.4,Resolved
+HIT-00136,2026-02-21,Primary Care,Hardware,High,Desktop,11.56,Yes,No,4.6,Closed
+HIT-00779,2026-02-21,Administration,Hardware,Medium,Network Device,16.49,No,Yes,4.1,Resolved
+HIT-00414,2026-02-21,Surgery,Other,Medium,Printer,21.71,No,Yes,4.5,Resolved
+HIT-00562,2026-02-21,Administration,Printer,Medium,Printer,35.8,No,Yes,3.9,Resolved
+HIT-00573,2026-02-22,Radiology,Printer,High,Application,7.93,No,Yes,5.0,Resolved
+HIT-00051,2026-02-22,Surgery,Clinical Application,Low,Application,33.97,No,Yes,3.5,Closed
+HIT-01047,2026-02-22,Primary Care,Email,Low,Printer,26.03,No,No,3.7,Resolved
+HIT-00202,2026-02-22,Cardiology,Password/Account,Medium,Mobile Device,17.5,No,Yes,4.9,Resolved
+HIT-00797,2026-02-22,Pharmacy,Email,Medium,Desktop,21.57,No,Yes,5.0,Resolved
+HIT-00018,2026-02-22,Surgery,EHR Access,Medium,Mobile Device,35.79,No,Yes,4.4,Closed
+HIT-00401,2026-02-22,Administration,Password/Account,Medium,Desktop,46.06,No,Yes,4.4,Closed
+HIT-00732,2026-02-22,Cardiology,Password/Account,Medium,Network Device,10.44,No,Yes,4.8,Closed
+HIT-01154,2026-02-22,Emergency Department,Email,Medium,Laptop,20.64,No,Yes,5.0,Resolved
+HIT-00081,2026-02-22,Radiology,Password/Account,Medium,Network Device,11.62,No,Yes,5.0,Resolved
+HIT-00196,2026-02-23,Administration,Hardware,Medium,Desktop,13.38,No,Yes,5.0,Resolved
+HIT-00398,2026-02-23,Emergency Department,Password/Account,High,Mobile Device,13.71,No,Yes,5.0,Resolved
+HIT-00340,2026-02-23,Laboratory,Password/Account,Medium,Laptop,27.02,No,Yes,4.4,Resolved
+HIT-00280,2026-02-23,Radiology,EHR Access,Low,Workstation,93.17,No,Yes,3.1,Resolved
+HIT-00067,2026-02-23,Emergency Department,Email,Medium,Laptop,17.59,No,No,4.3,Closed
+HIT-00757,2026-02-23,Radiology,Email,Critical,Mobile Device,1.41,No,Yes,4.5,Closed
+HIT-00665,2026-02-23,Primary Care,Email,Medium,Network Device,19.72,No,Yes,4.3,Closed
+HIT-00070,2026-02-23,Cardiology,Clinical Application,High,Printer,4.99,No,Yes,5.0,Closed
+HIT-00261,2026-02-23,Primary Care,Telehealth,High,Printer,8.11,No,No,4.5,Resolved
+HIT-00412,2026-02-24,Surgery,Printer,High,Printer,8.38,No,Yes,5.0,Resolved
+HIT-00724,2026-02-24,Emergency Department,Email,High,Network Device,22.91,No,Yes,3.7,Closed
+HIT-00925,2026-02-24,Emergency Department,EHR Access,High,Application,3.91,No,Yes,5.0,Resolved
+HIT-01148,2026-02-24,Emergency Department,EHR Access,Low,Mobile Device,42.65,Yes,No,4.8,Closed
+HIT-00036,2026-02-24,Pharmacy,Printer,Medium,Mobile Device,8.14,No,Yes,3.9,Resolved
+HIT-00843,2026-02-25,Administration,Other,High,Network Device,12.78,No,Yes,5.0,Resolved
+HIT-00867,2026-02-25,Emergency Department,Clinical Application,Medium,Laptop,23.06,Yes,No,4.6,Resolved
+HIT-00859,2026-02-25,Radiology,EHR Access,Low,Laptop,38.36,No,Yes,4.7,Resolved
+HIT-00639,2026-02-25,Emergency Department,Hardware,Low,Workstation,45.41,No,Yes,4.1,Closed
+HIT-00700,2026-02-25,Administration,Network,Medium,Desktop,6.9,No,No,3.7,Closed
+HIT-00576,2026-02-26,Emergency Department,Network,High,Laptop,8.43,No,Yes,4.8,Resolved
+HIT-00370,2026-02-26,Radiology,EHR Access,High,Mobile Device,15.76,No,No,3.9,Closed
+HIT-01145,2026-02-26,Laboratory,Hardware,Medium,Printer,57.87,Yes,No,3.7,Resolved
+HIT-00759,2026-02-26,Emergency Department,EHR Access,High,Mobile Device,6.17,No,Yes,4.5,Resolved
+HIT-01157,2026-02-26,Surgery,Hardware,Medium,Network Device,19.68,No,Yes,3.0,Resolved
+HIT-00436,2026-02-27,Pharmacy,EHR Access,Medium,Mobile Device,52.75,No,Yes,5.0,Closed
+HIT-00026,2026-02-27,Surgery,Other,Low,Workstation,63.53,No,Yes,5.0,Resolved
+HIT-00391,2026-02-27,Radiology,Password/Account,Medium,Network Device,24.81,No,Yes,5.0,Closed
+HIT-00390,2026-02-27,Primary Care,EHR Access,Critical,Desktop,1.07,Yes,No,5.0,Resolved
+HIT-00427,2026-02-27,Pharmacy,EHR Access,Low,Desktop,95.04,No,Yes,2.9,Resolved
+HIT-00341,2026-02-27,Pharmacy,Clinical Application,Medium,Workstation,24.32,No,Yes,3.7,Resolved
+HIT-00628,2026-02-27,Administration,Telehealth,Medium,Application,28.81,No,Yes,4.4,Closed
+HIT-00521,2026-02-27,Laboratory,Hardware,Low,Application,51.8,No,Yes,3.9,Resolved
+HIT-00644,2026-02-27,Pharmacy,EHR Access,High,Network Device,6.98,No,Yes,5.0,Resolved
+HIT-00177,2026-02-28,Pharmacy,Clinical Application,Medium,Application,15.07,No,Yes,5.0,Resolved
+HIT-00030,2026-02-28,Emergency Department,Printer,High,Laptop,12.97,No,Yes,4.5,Closed
+HIT-00909,2026-02-28,Laboratory,Hardware,Medium,Printer,33.22,No,Yes,5.0,Closed
+HIT-00715,2026-02-28,Administration,Clinical Application,Low,Network Device,31.5,No,Yes,5.0,Resolved
+HIT-01010,2026-03-01,Emergency Department,Clinical Application,High,Workstation,5.84,No,Yes,3.5,Resolved
+HIT-00402,2026-03-01,Cardiology,Network,Low,Printer,21.77,No,Yes,4.0,Resolved
+HIT-00047,2026-03-01,Emergency Department,Hardware,High,Workstation,9.22,No,No,3.6,Resolved
+HIT-00368,2026-03-01,Cardiology,Clinical Application,Low,Desktop,36.65,No,Yes,4.3,Closed
+HIT-01118,2026-03-01,Pharmacy,Printer,Low,Application,20.51,No,Yes,3.8,Resolved
+HIT-00246,2026-03-01,Laboratory,EHR Access,High,Printer,6.4,No,No,3.9,Resolved
+HIT-00682,2026-03-01,Emergency Department,EHR Access,Low,Network Device,69.79,No,No,4.4,Resolved
+HIT-01017,2026-03-01,Surgery,Printer,Medium,Printer,54.87,No,Yes,4.5,Closed
+HIT-00630,2026-03-02,Emergency Department,Hardware,High,Mobile Device,2.9,No,Yes,3.4,Closed
+HIT-00825,2026-03-02,Surgery,EHR Access,High,Workstation,5.11,No,Yes,4.1,Resolved
+HIT-00848,2026-03-02,Laboratory,Network,Low,Desktop,40.34,No,Yes,2.7,Resolved
+HIT-00817,2026-03-02,Cardiology,Hardware,Medium,Laptop,24.64,No,Yes,4.7,Resolved
+HIT-00312,2026-03-02,Administration,EHR Access,Medium,Network Device,31.85,Yes,No,4.1,Resolved
+HIT-00649,2026-03-02,Administration,Network,Medium,Laptop,61.66,No,Yes,4.1,Closed
+HIT-00114,2026-03-03,Administration,EHR Access,High,Network Device,11.53,No,Yes,4.2,Closed
+HIT-00921,2026-03-03,Surgery,Email,Medium,Workstation,15.62,No,Yes,4.0,Resolved
+HIT-00152,2026-03-03,Surgery,EHR Access,High,Desktop,5.89,No,Yes,4.8,Resolved
+HIT-00942,2026-03-03,Radiology,EHR Access,Critical,Workstation,0.96,No,No,2.5,Resolved
+HIT-00430,2026-03-03,Pharmacy,EHR Access,Low,Desktop,36.72,No,Yes,3.3,Resolved
+HIT-00548,2026-03-03,Radiology,Network,Medium,Printer,45.06,Yes,No,5.0,Resolved
+HIT-00172,2026-03-03,Surgery,Clinical Application,Low,Printer,21.85,No,Yes,3.9,Resolved
+HIT-01026,2026-03-03,Emergency Department,Hardware,Low,Application,49.85,No,Yes,5.0,Closed
+HIT-00183,2026-03-03,Radiology,Hardware,Low,Laptop,44.11,No,Yes,4.0,Resolved
+HIT-00997,2026-03-03,Pharmacy,Telehealth,Medium,Desktop,16.63,No,Yes,4.7,Resolved
+HIT-00424,2026-03-04,Cardiology,Telehealth,Medium,Desktop,18.56,No,No,4.6,Closed
+HIT-00846,2026-03-04,Emergency Department,EHR Access,Medium,Application,34.27,No,Yes,5.0,Closed
+HIT-01162,2026-03-04,Pharmacy,EHR Access,Medium,Network Device,19.35,No,Yes,3.7,Resolved
+HIT-00096,2026-03-04,Surgery,EHR Access,High,Laptop,5.63,No,Yes,4.9,Resolved
+HIT-01183,2026-03-04,Radiology,Hardware,Medium,Printer,23.71,No,Yes,5.0,Resolved
+HIT-00713,2026-03-04,Laboratory,Password/Account,Medium,Desktop,22.37,Yes,No,4.1,Closed
+HIT-00387,2026-03-04,Surgery,Printer,Low,Workstation,62.14,No,Yes,4.7,Resolved
+HIT-01147,2026-03-04,Emergency Department,Network,Medium,Printer,21.09,No,Yes,2.9,Resolved
+HIT-00134,2026-03-04,Emergency Department,Hardware,High,Workstation,3.46,Yes,No,5.0,Resolved
+HIT-01196,2026-03-04,Emergency Department,Hardware,High,Network Device,4.34,No,Yes,4.1,Resolved
+HIT-01043,2026-03-04,Laboratory,Telehealth,Low,Laptop,42.84,No,Yes,4.2,Resolved
+HIT-00984,2026-03-04,Surgery,Telehealth,Medium,Printer,17.47,No,Yes,3.6,Resolved
+HIT-00962,2026-03-05,Administration,Email,Low,Mobile Device,53.5,No,Yes,4.5,Resolved
+HIT-00908,2026-03-05,Radiology,EHR Access,High,Laptop,4.81,No,Yes,5.0,Resolved
+HIT-00037,2026-03-05,Surgery,Telehealth,High,Workstation,9.37,No,Yes,4.2,Resolved
+HIT-01011,2026-03-05,Laboratory,Printer,Low,Laptop,41.15,No,Yes,4.8,Closed
+HIT-01008,2026-03-05,Pharmacy,Password/Account,Medium,Desktop,21.88,No,Yes,5.0,Resolved
+HIT-00608,2026-03-06,Administration,Telehealth,Medium,Mobile Device,35.46,No,Yes,4.0,Closed
+HIT-00089,2026-03-06,Administration,Network,Critical,Network Device,1.76,No,Yes,3.9,Closed
+HIT-00374,2026-03-06,Primary Care,Clinical Application,Low,Laptop,40.46,Yes,No,5.0,Closed
+HIT-00498,2026-03-06,Administration,Clinical Application,Medium,Mobile Device,13.54,No,Yes,4.0,Resolved
+HIT-00707,2026-03-06,Surgery,Clinical Application,High,Mobile Device,10.57,No,Yes,4.3,Resolved
+HIT-00983,2026-03-06,Administration,Network,High,Application,8.02,No,Yes,4.1,Resolved
+HIT-00933,2026-03-07,Primary Care,Email,Medium,Workstation,24.27,No,Yes,3.0,Resolved
+HIT-01070,2026-03-07,Surgery,Clinical Application,Medium,Printer,42.57,No,No,3.6,Resolved
+HIT-00382,2026-03-07,Pharmacy,Clinical Application,Critical,Workstation,3.07,No,Yes,4.4,Resolved
+HIT-00766,2026-03-07,Emergency Department,Password/Account,High,Network Device,24.11,No,Yes,4.7,Resolved
+HIT-00149,2026-03-07,Radiology,Email,Medium,Laptop,11.95,No,No,3.2,Resolved
+HIT-00891,2026-03-08,Administration,Network,Medium,Application,11.0,No,Yes,5.0,Resolved
+HIT-00336,2026-03-08,Administration,Email,High,Application,20.01,No,Yes,3.9,Closed
+HIT-00342,2026-03-08,Laboratory,Clinical Application,Medium,Mobile Device,50.39,Yes,No,5.0,Resolved
+HIT-01054,2026-03-08,Primary Care,Email,High,Network Device,5.49,No,Yes,4.6,Closed
+HIT-00497,2026-03-08,Administration,Printer,High,Network Device,5.54,Yes,No,4.0,Resolved
+HIT-00889,2026-03-09,Cardiology,Hardware,Medium,Desktop,25.5,No,No,3.9,Closed
+HIT-00206,2026-03-09,Primary Care,EHR Access,Critical,Application,0.94,No,No,3.3,Resolved
+HIT-00284,2026-03-09,Administration,Other,High,Workstation,3.22,No,Yes,3.8,Closed
+HIT-01121,2026-03-09,Emergency Department,Clinical Application,Low,Mobile Device,42.17,No,Yes,4.9,Resolved
+HIT-00953,2026-03-09,Laboratory,Hardware,Low,Application,84.65,No,Yes,3.2,Resolved
+HIT-01089,2026-03-09,Administration,Hardware,Critical,Printer,0.72,No,Yes,5.0,Resolved
+HIT-00457,2026-03-10,Primary Care,Other,Low,Printer,25.13,No,Yes,3.6,Closed
+HIT-00794,2026-03-10,Radiology,EHR Access,Low,Network Device,32.42,Yes,No,4.4,Closed
+HIT-00469,2026-03-10,Laboratory,Network,High,Mobile Device,16.79,No,No,5.0,Resolved
+HIT-00448,2026-03-10,Cardiology,Clinical Application,High,Laptop,4.75,No,Yes,4.8,Resolved
+HIT-00211,2026-03-10,Administration,Printer,Medium,Workstation,16.72,No,Yes,4.6,Resolved
+HIT-00996,2026-03-10,Radiology,Password/Account,Low,Application,79.5,No,Yes,4.4,Resolved
+HIT-00477,2026-03-10,Primary Care,Clinical Application,High,Desktop,4.51,No,Yes,3.8,Closed
+HIT-00567,2026-03-10,Administration,EHR Access,High,Network Device,5.9,No,Yes,4.2,Resolved
+HIT-01101,2026-03-10,Administration,Password/Account,Medium,Network Device,10.47,No,Yes,4.9,Closed
+HIT-00615,2026-03-11,Primary Care,EHR Access,High,Workstation,2.69,No,Yes,3.6,Resolved
+HIT-00396,2026-03-11,Primary Care,EHR Access,Medium,Network Device,14.02,No,Yes,2.3,Resolved
+HIT-00828,2026-03-11,Primary Care,Hardware,Medium,Application,16.07,No,Yes,2.6,Resolved
+HIT-00916,2026-03-11,Radiology,Email,Low,Application,71.88,No,Yes,4.8,Resolved
+HIT-00218,2026-03-11,Radiology,EHR Access,High,Application,7.22,No,No,5.0,Resolved
+HIT-00950,2026-03-11,Administration,EHR Access,Medium,Printer,25.96,No,Yes,4.0,Closed
+HIT-00146,2026-03-12,Administration,Hardware,Medium,Network Device,16.74,No,Yes,4.0,Resolved
+HIT-01199,2026-03-12,Laboratory,Printer,Medium,Desktop,43.66,No,No,4.9,Closed
+HIT-00091,2026-03-12,Pharmacy,Network,Medium,Laptop,25.77,No,Yes,5.0,Resolved
+HIT-00611,2026-03-12,Administration,Email,High,Printer,3.35,No,Yes,4.5,Resolved
+HIT-00108,2026-03-13,Surgery,Hardware,High,Mobile Device,24.33,No,No,4.0,Resolved
+HIT-01033,2026-03-13,Laboratory,Printer,Low,Printer,96.0,No,No,4.8,Closed
+HIT-01125,2026-03-13,Laboratory,Telehealth,Medium,Workstation,15.83,No,Yes,4.2,Closed
+HIT-01013,2026-03-13,Radiology,EHR Access,Medium,Application,30.79,No,Yes,4.3,Closed
+HIT-00006,2026-03-13,Emergency Department,Network,Low,Application,18.07,No,Yes,4.2,Resolved
+HIT-00748,2026-03-13,Radiology,Clinical Application,Low,Network Device,75.31,No,Yes,4.0,Resolved
+HIT-00986,2026-03-14,Radiology,Printer,Medium,Desktop,10.58,No,Yes,4.8,Closed
+HIT-00839,2026-03-14,Cardiology,EHR Access,Low,Network Device,47.75,No,Yes,4.6,Closed
+HIT-00042,2026-03-14,Primary Care,Printer,Medium,Laptop,36.89,No,Yes,3.0,Resolved
+HIT-00590,2026-03-15,Pharmacy,Clinical Application,Medium,Mobile Device,21.97,Yes,No,4.3,Closed
+HIT-00501,2026-03-15,Pharmacy,Printer,Medium,Application,12.49,No,Yes,4.2,Resolved
+HIT-01074,2026-03-15,Surgery,Password/Account,Medium,Laptop,14.9,No,Yes,3.7,Closed
+HIT-01104,2026-03-15,Surgery,Email,High,Application,7.7,No,No,5.0,Closed
+HIT-00791,2026-03-15,Surgery,Clinical Application,Medium,Printer,25.69,No,No,3.2,Resolved
+HIT-00670,2026-03-15,Radiology,Clinical Application,Medium,Printer,15.29,No,Yes,4.3,Closed
+HIT-00934,2026-03-16,Cardiology,Email,Medium,Workstation,13.73,No,Yes,3.5,Resolved
+HIT-00266,2026-03-16,Emergency Department,Telehealth,Medium,Printer,17.16,No,Yes,4.7,Resolved
+HIT-00767,2026-03-16,Emergency Department,EHR Access,High,Laptop,2.34,Yes,No,4.7,Resolved
+HIT-00010,2026-03-16,Surgery,Printer,High,Workstation,7.69,No,Yes,4.2,Resolved
+HIT-01165,2026-03-16,Pharmacy,Hardware,Medium,Network Device,20.91,No,Yes,2.8,Resolved
+HIT-00523,2026-03-16,Primary Care,Hardware,Low,Desktop,44.27,Yes,No,2.6,Resolved
+HIT-00160,2026-03-16,Surgery,Telehealth,Critical,Application,1.57,No,Yes,3.6,Resolved
+HIT-00586,2026-03-16,Pharmacy,EHR Access,High,Printer,8.21,No,Yes,3.1,Resolved
+HIT-00920,2026-03-16,Radiology,Printer,Medium,Workstation,27.79,No,Yes,5.0,Closed
+HIT-00558,2026-03-17,Administration,Clinical Application,High,Application,2.73,Yes,No,5.0,Resolved
+HIT-00588,2026-03-17,Administration,EHR Access,Medium,Mobile Device,41.36,No,Yes,5.0,Resolved
+HIT-00451,2026-03-17,Administration,Telehealth,Medium,Mobile Device,15.51,No,Yes,5.0,Closed
+HIT-01090,2026-03-17,Primary Care,Printer,Medium,Network Device,18.03,No,Yes,3.7,Closed
+HIT-01004,2026-03-17,Pharmacy,Telehealth,Medium,Mobile Device,39.21,No,Yes,3.6,Resolved
+HIT-00968,2026-03-18,Radiology,Email,High,Desktop,2.38,No,Yes,5.0,Resolved
+HIT-00999,2026-03-19,Pharmacy,Network,Medium,Workstation,15.63,Yes,No,4.5,Resolved
+HIT-00836,2026-03-19,Emergency Department,Network,Medium,Printer,36.62,No,Yes,4.1,Resolved
+HIT-01024,2026-03-19,Laboratory,EHR Access,Medium,Laptop,14.76,No,Yes,3.4,Resolved
+HIT-00862,2026-03-19,Cardiology,Hardware,High,Workstation,2.89,No,Yes,1.9,Resolved
+HIT-00737,2026-03-19,Surgery,Printer,Medium,Network Device,48.0,No,Yes,3.8,Closed
+HIT-00781,2026-03-20,Cardiology,Email,Medium,Laptop,36.5,No,Yes,4.8,Resolved
+HIT-00936,2026-03-20,Administration,Hardware,Medium,Laptop,27.03,No,Yes,5.0,Closed
+HIT-00776,2026-03-20,Surgery,Printer,Low,Workstation,59.05,No,Yes,3.0,Closed
+HIT-00943,2026-03-20,Administration,Other,High,Printer,14.54,No,Yes,3.4,Resolved
+HIT-00652,2026-03-21,Primary Care,Email,Low,Workstation,41.22,No,Yes,5.0,Closed
+HIT-00481,2026-03-21,Radiology,Password/Account,Low,Mobile Device,29.56,No,Yes,4.3,Resolved
+HIT-00803,2026-03-21,Radiology,Password/Account,High,Laptop,8.7,No,Yes,4.5,Closed
+HIT-00060,2026-03-22,Emergency Department,Email,Low,Laptop,51.68,No,Yes,2.5,Resolved
+HIT-00098,2026-03-22,Radiology,Password/Account,Medium,Network Device,55.79,No,Yes,5.0,Closed
+HIT-01189,2026-03-22,Laboratory,Clinical Application,Medium,Desktop,31.74,No,Yes,4.5,Resolved
+HIT-00511,2026-03-22,Emergency Department,Password/Account,High,Application,5.87,No,Yes,3.8,Closed
+HIT-00785,2026-03-22,Surgery,Network,Low,Workstation,96.0,No,Yes,3.6,Closed
+HIT-00849,2026-03-22,Emergency Department,Password/Account,Medium,Workstation,17.3,Yes,No,4.8,Resolved
+HIT-00192,2026-03-22,Surgery,Printer,Medium,Printer,15.54,No,Yes,3.5,Closed
+HIT-00695,2026-03-23,Primary Care,Telehealth,High,Application,11.54,No,Yes,3.4,Resolved
+HIT-00774,2026-03-23,Radiology,EHR Access,Low,Laptop,46.72,No,Yes,4.1,Closed
+HIT-00079,2026-03-23,Administration,Clinical Application,Critical,Printer,3.8,No,Yes,3.5,Resolved
+HIT-00279,2026-03-23,Laboratory,Password/Account,High,Printer,3.74,No,Yes,4.6,Resolved
+HIT-00233,2026-03-23,Surgery,Printer,Low,Laptop,96.0,No,Yes,4.8,Resolved
+HIT-00605,2026-03-24,Administration,Clinical Application,High,Mobile Device,6.52,Yes,No,3.6,Closed
+HIT-00901,2026-03-24,Cardiology,Password/Account,Medium,Desktop,23.05,Yes,No,3.3,Resolved
+HIT-01022,2026-03-24,Laboratory,Other,Medium,Application,9.68,No,Yes,3.2,Resolved
+HIT-00734,2026-03-24,Emergency Department,EHR Access,Critical,Desktop,1.08,No,Yes,5.0,Resolved
+HIT-00563,2026-03-24,Pharmacy,EHR Access,Medium,Network Device,52.54,No,Yes,5.0,Resolved
+HIT-00549,2026-03-25,Administration,Printer,Low,Mobile Device,27.31,No,Yes,3.8,Closed
+HIT-00982,2026-03-25,Cardiology,EHR Access,High,Network Device,3.14,No,Yes,4.3,Resolved
+HIT-00271,2026-03-25,Surgery,Network,High,Mobile Device,4.01,Yes,No,4.5,Resolved
+HIT-01190,2026-03-25,Laboratory,Hardware,Critical,Laptop,0.66,No,Yes,5.0,Resolved
+HIT-00053,2026-03-25,Laboratory,EHR Access,Medium,Application,42.0,No,Yes,4.2,Resolved
+HIT-00485,2026-03-25,Primary Care,Printer,Low,Application,56.42,Yes,No,5.0,Resolved
+HIT-00793,2026-03-25,Pharmacy,Clinical Application,Low,Application,61.9,Yes,No,3.2,Closed
+HIT-00158,2026-03-25,Emergency Department,Printer,Low,Laptop,50.16,No,Yes,4.7,Resolved
+HIT-00711,2026-03-26,Cardiology,Clinical Application,Medium,Network Device,23.86,No,Yes,4.8,Resolved
+HIT-00736,2026-03-26,Pharmacy,Password/Account,Medium,Application,12.64,No,Yes,4.1,Resolved
+HIT-00764,2026-03-26,Laboratory,Password/Account,High,Desktop,11.64,Yes,No,3.6,Resolved
+HIT-00462,2026-03-26,Surgery,Clinical Application,Medium,Laptop,17.26,Yes,No,3.5,Resolved
+HIT-00455,2026-03-27,Laboratory,Password/Account,Medium,Printer,52.17,Yes,No,4.1,Resolved
+HIT-00392,2026-03-27,Primary Care,EHR Access,Medium,Laptop,22.68,No,Yes,5.0,Resolved
+HIT-00882,2026-03-27,Administration,Password/Account,Low,Laptop,96.0,No,Yes,3.3,Resolved
+HIT-00714,2026-03-27,Radiology,Password/Account,Low,Workstation,34.52,Yes,No,4.0,Closed
+HIT-00349,2026-03-27,Pharmacy,Network,Medium,Application,21.35,No,Yes,4.4,Resolved
+HIT-01069,2026-03-27,Cardiology,EHR Access,Low,Mobile Device,22.15,Yes,No,4.3,Closed
+HIT-00384,2026-03-27,Surgery,Password/Account,Low,Printer,66.01,No,Yes,4.7,Closed
+HIT-01195,2026-03-27,Primary Care,Password/Account,Medium,Desktop,27.15,No,Yes,4.1,Resolved
+HIT-00609,2026-03-27,Administration,Printer,High,Mobile Device,6.52,No,Yes,3.8,Closed
+HIT-00147,2026-03-27,Emergency Department,Email,Medium,Desktop,27.35,Yes,No,4.3,Resolved
+HIT-00551,2026-03-27,Pharmacy,Password/Account,High,Desktop,4.34,No,Yes,3.7,Resolved
+HIT-00197,2026-03-28,Administration,Telehealth,Medium,Mobile Device,23.51,No,Yes,3.9,Resolved
+HIT-00011,2026-03-29,Pharmacy,Password/Account,Medium,Desktop,9.11,No,Yes,4.5,Resolved
+HIT-00093,2026-03-29,Primary Care,Hardware,Low,Laptop,78.94,No,Yes,4.0,Closed
+HIT-00020,2026-03-29,Emergency Department,EHR Access,Medium,Printer,31.27,Yes,No,3.0,Resolved
+HIT-01179,2026-03-29,Radiology,Other,Medium,Network Device,28.49,Yes,No,3.5,Resolved
+HIT-01028,2026-03-30,Laboratory,Clinical Application,Low,Laptop,46.7,No,Yes,4.5,Resolved
+HIT-01030,2026-03-30,Pharmacy,EHR Access,Medium,Application,17.37,No,Yes,5.0,Resolved
+HIT-00046,2026-03-30,Primary Care,EHR Access,Medium,Application,13.15,No,Yes,4.4,Closed
+HIT-00028,2026-03-30,Emergency Department,Email,High,Printer,5.63,No,Yes,4.2,Resolved
+HIT-00090,2026-03-30,Primary Care,Email,Medium,Laptop,16.34,No,Yes,4.4,Resolved
+HIT-00444,2026-03-30,Administration,Password/Account,Medium,Laptop,14.77,No,Yes,4.8,Resolved
+HIT-00832,2026-03-31,Primary Care,Other,Medium,Desktop,14.57,No,Yes,2.9,Resolved
+HIT-00130,2026-03-31,Cardiology,Other,High,Network Device,5.95,No,Yes,5.0,Resolved
+HIT-00960,2026-03-31,Primary Care,Hardware,Low,Desktop,76.74,No,Yes,4.9,Resolved
+HIT-00516,2026-03-31,Administration,Password/Account,Medium,Workstation,21.23,Yes,No,2.4,Closed
+HIT-01164,2026-03-31,Surgery,Printer,High,Workstation,8.38,No,Yes,5.0,Closed
+HIT-01110,2026-03-31,Emergency Department,Network,Medium,Workstation,48.82,No,Yes,4.9,Resolved
+HIT-01142,2026-03-31,Surgery,EHR Access,Low,Desktop,75.68,No,Yes,4.3,Closed
+HIT-00512,2026-03-31,Pharmacy,Hardware,Low,Mobile Device,40.63,No,Yes,3.8,Closed
+HIT-00050,2026-03-31,Emergency Department,Printer,Medium,Workstation,9.25,No,Yes,5.0,Resolved
+HIT-00621,2026-03-31,Pharmacy,EHR Access,Critical,Application,1.62,Yes,No,4.6,Closed
+HIT-00244,2026-03-31,Primary Care,Email,Medium,Laptop,25.91,No,Yes,3.4,Resolved
+HIT-00428,2026-03-31,Primary Care,EHR Access,High,Mobile Device,4.29,No,Yes,4.9,Closed
+HIT-00680,2026-03-31,Surgery,Printer,Medium,Desktop,23.04,No,Yes,3.5,Resolved
+HIT-00224,2026-03-31,Administration,Password/Account,Critical,Network Device,0.68,Yes,No,4.3,Resolved
+HIT-00620,2026-04-01,Pharmacy,Clinical Application,High,Laptop,10.31,Yes,No,5.0,Resolved
+HIT-01170,2026-04-01,Emergency Department,Clinical Application,Medium,Workstation,14.65,No,Yes,4.7,Resolved
+HIT-00777,2026-04-01,Pharmacy,Clinical Application,Medium,Workstation,29.53,No,Yes,4.8,Resolved
+HIT-00426,2026-04-02,Administration,Clinical Application,Medium,Mobile Device,32.43,No,Yes,4.7,Resolved
+HIT-00162,2026-04-02,Administration,Clinical Application,Medium,Desktop,16.5,No,Yes,4.6,Closed
+HIT-01128,2026-04-02,Pharmacy,Email,High,Laptop,11.67,No,Yes,4.5,Resolved
+HIT-00380,2026-04-02,Laboratory,Hardware,Medium,Workstation,17.99,No,No,3.7,Resolved
+HIT-00054,2026-04-02,Administration,Telehealth,Medium,Printer,31.45,No,Yes,4.9,Resolved
+HIT-00678,2026-04-02,Laboratory,Clinical Application,High,Network Device,8.92,No,No,3.9,Closed
+HIT-00636,2026-04-02,Cardiology,Printer,High,Laptop,7.17,No,Yes,4.8,Closed
+HIT-00746,2026-04-02,Laboratory,Hardware,High,Printer,4.16,No,Yes,3.4,Resolved
+HIT-00823,2026-04-02,Primary Care,Printer,High,Mobile Device,8.36,Yes,No,3.7,Resolved
+HIT-00003,2026-04-03,Pharmacy,Hardware,Medium,Application,14.61,No,No,4.6,Resolved
+HIT-00814,2026-04-03,Pharmacy,Email,Medium,Desktop,34.77,No,No,5.0,Resolved
+HIT-01012,2026-04-03,Emergency Department,Password/Account,Medium,Network Device,18.79,No,Yes,4.4,Resolved
+HIT-00450,2026-04-03,Primary Care,EHR Access,Medium,Application,18.38,No,Yes,5.0,Closed
+HIT-00219,2026-04-03,Pharmacy,Network,Medium,Network Device,18.48,Yes,No,3.7,Resolved
+HIT-00514,2026-04-03,Pharmacy,Network,Low,Printer,96.0,No,Yes,4.7,Closed
+HIT-00328,2026-04-03,Cardiology,EHR Access,High,Workstation,9.43,No,Yes,3.8,Resolved
+HIT-00275,2026-04-03,Pharmacy,Hardware,Medium,Printer,44.87,No,Yes,4.1,Resolved
+HIT-00409,2026-04-04,Administration,Password/Account,High,Network Device,6.0,No,Yes,3.8,Closed
+HIT-00844,2026-04-04,Pharmacy,Email,Medium,Printer,41.43,No,Yes,4.3,Closed
+HIT-00459,2026-04-04,Radiology,Email,Medium,Network Device,17.74,No,Yes,3.2,Resolved
+HIT-00993,2026-04-04,Emergency Department,Printer,Medium,Laptop,23.34,No,Yes,4.4,Resolved
+HIT-00919,2026-04-04,Primary Care,Email,Medium,Application,46.29,No,Yes,4.3,Resolved
+HIT-00940,2026-04-04,Emergency Department,Network,Medium,Workstation,14.93,Yes,No,3.8,Resolved
+HIT-00922,2026-04-04,Primary Care,Hardware,Medium,Laptop,7.43,No,Yes,5.0,Closed
+HIT-00726,2026-04-05,Laboratory,Printer,Low,Workstation,34.1,No,Yes,3.6,Resolved
+HIT-00331,2026-04-05,Laboratory,Network,Medium,Application,17.2,No,Yes,4.3,Resolved
+HIT-00075,2026-04-05,Emergency Department,Password/Account,Medium,Workstation,24.79,No,Yes,4.5,Resolved
+HIT-00507,2026-04-05,Cardiology,Printer,Low,Mobile Device,47.1,No,Yes,3.9,Resolved
+HIT-00747,2026-04-05,Surgery,Telehealth,Low,Laptop,88.16,No,Yes,5.0,Resolved
+HIT-01094,2026-04-05,Primary Care,Other,High,Network Device,10.05,No,Yes,4.4,Resolved
+HIT-00923,2026-04-05,Radiology,Other,Medium,Mobile Device,23.43,No,Yes,4.2,Resolved
+HIT-00804,2026-04-05,Surgery,Hardware,High,Mobile Device,12.67,No,No,3.0,Resolved
+HIT-00994,2026-04-05,Surgery,Hardware,Critical,Workstation,1.17,No,Yes,3.1,Resolved
+HIT-00227,2026-04-06,Emergency Department,EHR Access,Medium,Application,34.5,No,Yes,5.0,Resolved
+HIT-00440,2026-04-06,Laboratory,Email,Medium,Mobile Device,8.59,No,Yes,5.0,Closed
+HIT-00180,2026-04-06,Administration,Network,Low,Laptop,35.53,No,Yes,4.0,Resolved
+HIT-00475,2026-04-06,Cardiology,Hardware,High,Printer,11.46,No,Yes,3.1,Resolved
+HIT-00535,2026-04-06,Laboratory,Email,Medium,Workstation,29.52,Yes,No,4.1,Resolved
+HIT-00137,2026-04-06,Pharmacy,Clinical Application,High,Application,6.94,No,Yes,4.2,Resolved
+HIT-00812,2026-04-06,Surgery,Telehealth,Medium,Application,24.88,Yes,No,5.0,Resolved
+HIT-00135,2026-04-06,Emergency Department,Hardware,Medium,Desktop,4.62,No,Yes,4.8,Resolved
+HIT-01066,2026-04-07,Emergency Department,Clinical Application,High,Workstation,20.11,No,Yes,4.8,Resolved
+HIT-00309,2026-04-07,Surgery,Other,High,Printer,10.37,No,Yes,4.1,Closed
+HIT-00216,2026-04-07,Primary Care,Network,High,Application,5.32,No,Yes,4.4,Closed
+HIT-01041,2026-04-07,Radiology,Password/Account,Medium,Application,10.37,Yes,No,4.0,Resolved
+HIT-01075,2026-04-07,Surgery,Password/Account,Medium,Workstation,54.04,No,Yes,4.9,Resolved
+HIT-00381,2026-04-08,Radiology,Hardware,Medium,Laptop,24.56,No,Yes,3.7,Resolved
+HIT-00213,2026-04-08,Radiology,Hardware,Medium,Application,12.65,No,Yes,3.7,Resolved
+HIT-00773,2026-04-08,Administration,Printer,High,Mobile Device,3.76,No,No,5.0,Resolved
+HIT-00719,2026-04-08,Laboratory,Clinical Application,Medium,Printer,16.2,No,Yes,4.0,Resolved
+HIT-00273,2026-04-09,Administration,Email,Medium,Network Device,15.8,No,Yes,4.7,Resolved
+HIT-00255,2026-04-09,Pharmacy,Printer,Low,Application,57.8,No,Yes,3.1,Closed
+HIT-00332,2026-04-09,Cardiology,Email,Medium,Workstation,37.7,No,Yes,3.9,Resolved
+HIT-00324,2026-04-09,Emergency Department,EHR Access,High,Laptop,6.1,No,Yes,3.1,Resolved
+HIT-00241,2026-04-09,Laboratory,Hardware,Medium,Network Device,15.66,No,Yes,3.8,Closed
+HIT-00363,2026-04-09,Primary Care,Email,Critical,Application,0.4,No,Yes,3.5,Closed
+HIT-00568,2026-04-09,Administration,Clinical Application,Low,Workstation,52.33,No,Yes,4.7,Resolved
+HIT-00411,2026-04-09,Cardiology,Hardware,High,Application,2.22,No,Yes,5.0,Resolved
+HIT-00855,2026-04-09,Primary Care,Telehealth,Low,Application,31.88,No,Yes,4.3,Resolved
+HIT-00543,2026-04-09,Cardiology,Network,Medium,Desktop,36.9,No,Yes,4.0,Resolved
+HIT-00721,2026-04-09,Pharmacy,Hardware,Critical,Network Device,0.82,No,No,3.7,Resolved
+HIT-00533,2026-04-09,Surgery,Hardware,High,Application,12.05,No,Yes,3.7,Closed
+HIT-00116,2026-04-09,Cardiology,Network,High,Network Device,14.93,No,Yes,4.5,Resolved
+HIT-00013,2026-04-10,Administration,Network,Low,Workstation,33.38,No,Yes,4.1,Resolved
+HIT-00464,2026-04-10,Surgery,Printer,Low,Laptop,86.69,No,Yes,4.1,Resolved
+HIT-00555,2026-04-10,Surgery,Hardware,Low,Mobile Device,24.64,No,Yes,4.5,Resolved
+HIT-00470,2026-04-10,Radiology,Clinical Application,Low,Printer,46.58,No,Yes,3.6,Resolved
+HIT-00967,2026-04-10,Pharmacy,Telehealth,Medium,Desktop,8.01,No,Yes,3.8,Resolved
+HIT-01120,2026-04-10,Primary Care,Password/Account,High,Printer,3.47,No,Yes,3.2,Resolved
+HIT-01140,2026-04-11,Laboratory,Email,High,Printer,5.07,No,Yes,3.0,Resolved
+HIT-00530,2026-04-11,Administration,Clinical Application,Medium,Network Device,18.77,No,No,3.5,Closed
+HIT-00904,2026-04-11,Cardiology,Email,Low,Network Device,38.46,No,Yes,4.0,Closed
+HIT-00985,2026-04-11,Cardiology,Network,Critical,Workstation,1.64,No,Yes,5.0,Resolved
+HIT-00120,2026-04-11,Cardiology,Other,Low,Application,29.76,Yes,No,4.2,Resolved
+HIT-00495,2026-04-11,Cardiology,Hardware,Low,Application,56.89,No,Yes,4.7,Resolved
+HIT-00466,2026-04-11,Laboratory,Network,Low,Mobile Device,85.7,No,Yes,4.3,Closed
+HIT-00685,2026-04-11,Laboratory,Other,Critical,Desktop,0.32,No,Yes,4.3,Closed
+HIT-00399,2026-04-11,Laboratory,Telehealth,Low,Network Device,26.34,No,Yes,5.0,Resolved
+HIT-00190,2026-04-11,Radiology,Printer,Medium,Laptop,15.16,No,Yes,3.8,Resolved
+HIT-00672,2026-04-12,Pharmacy,Password/Account,High,Network Device,4.63,No,Yes,4.8,Resolved
+HIT-00728,2026-04-12,Cardiology,Hardware,Medium,Printer,14.21,No,No,2.8,Resolved
+HIT-00769,2026-04-13,Surgery,Hardware,High,Printer,6.95,No,Yes,5.0,Resolved
+HIT-00001,2026-04-13,Surgery,Password/Account,Low,Application,36.19,No,Yes,4.8,Closed
+HIT-00008,2026-04-13,Administration,Hardware,High,Application,19.18,No,Yes,3.6,Resolved
+HIT-00405,2026-04-13,Cardiology,Printer,Low,Laptop,24.6,No,Yes,5.0,Resolved
+HIT-00169,2026-04-13,Pharmacy,Network,Medium,Workstation,21.05,No,Yes,4.5,Resolved
+HIT-00126,2026-04-13,Cardiology,Printer,Critical,Desktop,0.75,No,Yes,4.3,Resolved
+HIT-01105,2026-04-14,Surgery,Clinical Application,Medium,Workstation,10.34,No,Yes,4.0,Resolved
+HIT-00343,2026-04-14,Administration,Network,Low,Laptop,34.6,No,No,3.9,Resolved
+HIT-00063,2026-04-14,Surgery,Email,Low,Workstation,21.62,No,Yes,4.8,Resolved
+HIT-00234,2026-04-14,Emergency Department,Other,Medium,Mobile Device,20.84,No,Yes,4.6,Resolved
+HIT-01117,2026-04-14,Radiology,Password/Account,Low,Application,34.63,Yes,No,2.7,Resolved
+HIT-01115,2026-04-14,Administration,Clinical Application,Medium,Printer,14.26,No,Yes,4.9,Closed
+HIT-00355,2026-04-14,Cardiology,Hardware,Low,Application,75.0,No,No,3.8,Resolved
+HIT-00118,2026-04-14,Laboratory,Clinical Application,Low,Mobile Device,69.28,No,Yes,3.2,Resolved
+HIT-01035,2026-04-14,Pharmacy,Network,Medium,Application,10.89,No,Yes,3.9,Resolved
+HIT-00270,2026-04-14,Laboratory,Password/Account,High,Application,17.29,No,Yes,4.3,Resolved
+HIT-00014,2026-04-14,Radiology,Printer,Medium,Mobile Device,8.74,No,Yes,4.7,Resolved
+HIT-01048,2026-04-14,Pharmacy,Printer,Medium,Mobile Device,72.15,No,Yes,3.9,Resolved
+HIT-01049,2026-04-14,Pharmacy,Clinical Application,Medium,Desktop,18.11,Yes,No,5.0,Resolved
+HIT-01197,2026-04-14,Emergency Department,Printer,Low,Workstation,39.7,Yes,No,4.2,Resolved
+HIT-00809,2026-04-14,Cardiology,Email,Low,Laptop,91.91,No,Yes,4.7,Closed
+HIT-00632,2026-04-15,Surgery,Hardware,Low,Application,53.82,No,Yes,4.3,Resolved
+HIT-01015,2026-04-15,Cardiology,Clinical Application,Low,Printer,96.0,No,Yes,4.4,Resolved
+HIT-01191,2026-04-15,Cardiology,EHR Access,Medium,Printer,23.85,No,Yes,4.8,Closed
+HIT-00720,2026-04-15,Administration,EHR Access,High,Application,5.71,No,Yes,3.8,Resolved
+HIT-00544,2026-04-15,Primary Care,Hardware,Medium,Application,18.64,No,Yes,4.8,Closed
+HIT-00519,2026-04-15,Surgery,Printer,Medium,Workstation,21.58,No,Yes,3.9,Resolved
+HIT-00068,2026-04-16,Surgery,Password/Account,High,Laptop,5.36,No,Yes,4.0,Resolved
+HIT-01127,2026-04-16,Surgery,EHR Access,High,Application,3.02,No,Yes,5.0,Resolved
+HIT-00783,2026-04-16,Pharmacy,Password/Account,Low,Mobile Device,96.0,Yes,No,3.7,Resolved
+HIT-00419,2026-04-16,Emergency Department,Other,High,Workstation,4.53,Yes,No,5.0,Resolved
+HIT-01112,2026-04-17,Pharmacy,Clinical Application,Medium,Application,13.39,No,Yes,4.4,Resolved
+HIT-00005,2026-04-17,Administration,Hardware,Medium,Workstation,27.54,No,No,4.8,Resolved
+HIT-00845,2026-04-17,Primary Care,Clinical Application,High,Mobile Device,3.99,No,No,4.3,Resolved
+HIT-00873,2026-04-17,Administration,Email,Medium,Workstation,22.12,Yes,No,3.2,Closed
+HIT-00618,2026-04-18,Emergency Department,Email,High,Laptop,5.98,No,Yes,5.0,Resolved
+HIT-00403,2026-04-18,Surgery,EHR Access,High,Laptop,7.18,No,Yes,4.1,Resolved
+HIT-00156,2026-04-18,Radiology,Clinical Application,Low,Desktop,19.76,Yes,No,3.8,Closed
+HIT-00035,2026-04-18,Cardiology,Hardware,Medium,Network Device,13.25,No,Yes,4.7,Resolved
+HIT-01174,2026-04-18,Cardiology,Hardware,Medium,Desktop,25.49,Yes,No,5.0,Resolved
+HIT-00578,2026-04-19,Surgery,EHR Access,Low,Mobile Device,91.03,No,No,2.8,Resolved
+HIT-00302,2026-04-19,Administration,Hardware,Low,Application,34.62,Yes,No,4.3,Resolved
+HIT-00407,2026-04-19,Laboratory,Printer,Critical,Printer,2.07,No,Yes,4.3,Resolved
+HIT-00702,2026-04-19,Laboratory,EHR Access,Low,Desktop,35.92,No,No,4.4,Resolved
+HIT-00892,2026-04-19,Emergency Department,Password/Account,Medium,Workstation,26.69,No,Yes,4.2,Resolved
+HIT-00607,2026-04-19,Radiology,Email,Medium,Network Device,12.1,No,Yes,4.2,Resolved
+HIT-01081,2026-04-19,Laboratory,EHR Access,High,Network Device,8.04,No,Yes,3.5,Closed
+HIT-00910,2026-04-19,Pharmacy,Password/Account,Low,Workstation,49.26,No,Yes,4.3,Closed
+HIT-00864,2026-04-19,Cardiology,Password/Account,Low,Mobile Device,94.81,No,No,4.2,Resolved
+HIT-00278,2026-04-20,Administration,Password/Account,High,Network Device,10.7,No,Yes,3.8,Resolved
+HIT-01143,2026-04-20,Administration,Password/Account,High,Application,7.38,No,Yes,5.0,Resolved
+HIT-00738,2026-04-20,Pharmacy,Clinical Application,Low,Desktop,50.47,No,Yes,3.5,Closed
+HIT-01059,2026-04-21,Administration,Clinical Application,Critical,Mobile Device,1.59,No,Yes,4.8,Resolved
+HIT-00895,2026-04-21,Radiology,Password/Account,Low,Application,73.15,Yes,No,4.1,Resolved
+HIT-00871,2026-04-21,Surgery,Password/Account,High,Application,5.25,No,Yes,3.6,Resolved
+HIT-00897,2026-04-21,Administration,Hardware,High,Mobile Device,9.78,No,Yes,5.0,Closed
+HIT-01116,2026-04-21,Pharmacy,Other,Medium,Desktop,13.72,No,Yes,5.0,Closed
+HIT-00080,2026-04-21,Administration,Hardware,Critical,Network Device,1.12,Yes,No,5.0,Resolved
+HIT-00801,2026-04-21,Surgery,EHR Access,Medium,Network Device,33.68,Yes,No,4.4,Resolved
+HIT-00564,2026-04-21,Administration,Other,High,Laptop,4.73,No,Yes,4.0,Closed
+HIT-00311,2026-04-21,Cardiology,Telehealth,High,Application,6.36,No,Yes,5.0,Resolved
+HIT-00055,2026-04-21,Emergency Department,Clinical Application,Medium,Laptop,15.68,No,No,4.2,Closed
+HIT-00894,2026-04-21,Cardiology,Other,Medium,Network Device,40.93,No,Yes,4.7,Resolved
+HIT-00917,2026-04-22,Emergency Department,Password/Account,High,Printer,8.93,Yes,No,5.0,Resolved
+HIT-00761,2026-04-22,Primary Care,Password/Account,Medium,Network Device,33.16,No,Yes,4.1,Resolved
+HIT-00550,2026-04-22,Primary Care,Other,High,Workstation,22.06,No,Yes,4.6,Resolved
+HIT-00272,2026-04-22,Surgery,EHR Access,Medium,Laptop,44.74,No,Yes,5.0,Closed
+HIT-00245,2026-04-22,Pharmacy,EHR Access,Medium,Application,28.07,No,Yes,3.7,Resolved
+HIT-00637,2026-04-23,Primary Care,Printer,High,Laptop,5.0,Yes,No,4.9,Closed
+HIT-00743,2026-04-23,Pharmacy,Hardware,Medium,Laptop,16.61,No,Yes,3.7,Closed
+HIT-00956,2026-04-23,Emergency Department,Other,High,Network Device,7.92,No,Yes,5.0,Resolved
+HIT-00191,2026-04-23,Surgery,Email,High,Workstation,3.15,No,Yes,4.3,Resolved
+HIT-00189,2026-04-23,Primary Care,Hardware,Medium,Workstation,24.21,No,Yes,3.9,Closed
+HIT-00547,2026-04-23,Administration,EHR Access,High,Printer,4.98,No,Yes,3.8,Closed
+HIT-00182,2026-04-23,Primary Care,Clinical Application,Medium,Desktop,20.98,No,Yes,5.0,Resolved
+HIT-00247,2026-04-23,Radiology,Hardware,Low,Mobile Device,61.9,No,Yes,3.7,Resolved
+HIT-00540,2026-04-23,Primary Care,Password/Account,Medium,Printer,11.35,No,Yes,3.7,Resolved
+HIT-00939,2026-04-23,Primary Care,Telehealth,Medium,Mobile Device,12.4,No,No,3.2,Resolved
+HIT-00900,2026-04-23,Primary Care,Clinical Application,Critical,Desktop,0.53,No,Yes,4.6,Resolved
+HIT-00267,2026-04-23,Surgery,Email,High,Mobile Device,4.48,No,No,3.5,Resolved
+HIT-00193,2026-04-23,Cardiology,Clinical Application,Medium,Workstation,15.47,Yes,No,3.7,Resolved
+HIT-00854,2026-04-23,Laboratory,Telehealth,Medium,Mobile Device,35.17,Yes,No,3.2,Closed
+HIT-01187,2026-04-24,Radiology,Password/Account,Medium,Workstation,29.72,No,Yes,3.0,Closed
+HIT-00522,2026-04-24,Primary Care,Network,Medium,Workstation,12.88,No,Yes,5.0,Resolved
+HIT-00417,2026-04-24,Cardiology,Clinical Application,High,Mobile Device,6.42,Yes,No,4.0,Resolved
+HIT-00346,2026-04-24,Administration,Email,High,Mobile Device,17.2,No,Yes,5.0,Resolved
+HIT-00378,2026-04-25,Administration,Clinical Application,Medium,Workstation,25.17,No,No,4.3,Resolved
+HIT-00297,2026-04-25,Administration,Network,Medium,Workstation,15.95,Yes,No,3.9,Resolved
+HIT-00518,2026-04-25,Pharmacy,Hardware,High,Application,5.22,No,Yes,4.1,Resolved
+HIT-00868,2026-04-25,Administration,Printer,Medium,Desktop,17.33,No,Yes,5.0,Resolved
+HIT-00800,2026-04-25,Pharmacy,EHR Access,Medium,Network Device,19.76,No,No,3.6,Resolved
+HIT-00696,2026-04-25,Pharmacy,Hardware,High,Laptop,4.2,No,Yes,3.6,Resolved
+HIT-00876,2026-04-25,Laboratory,Clinical Application,Medium,Laptop,14.91,No,Yes,3.4,Resolved
+HIT-01095,2026-04-25,Primary Care,Password/Account,Medium,Printer,17.29,No,Yes,4.3,Closed
+HIT-01149,2026-04-25,Laboratory,Password/Account,Medium,Desktop,23.04,No,Yes,4.4,Resolved
+HIT-00212,2026-04-26,Emergency Department,Password/Account,Low,Workstation,58.1,Yes,No,4.4,Closed
+HIT-00333,2026-04-26,Laboratory,Hardware,Medium,Desktop,19.29,No,Yes,4.9,Resolved
+HIT-00265,2026-04-26,Administration,EHR Access,Low,Mobile Device,42.54,No,Yes,4.0,Resolved
+HIT-00408,2026-04-26,Radiology,Password/Account,Low,Desktop,96.0,No,Yes,4.5,Resolved
+HIT-00167,2026-04-26,Primary Care,Other,Medium,Laptop,19.34,No,Yes,2.7,Resolved
+HIT-00012,2026-04-27,Administration,Clinical Application,High,Workstation,7.25,No,Yes,4.2,Resolved
+HIT-01000,2026-04-27,Pharmacy,EHR Access,Low,Workstation,31.08,No,No,5.0,Resolved
+HIT-00675,2026-04-27,Cardiology,Password/Account,Low,Printer,10.03,No,Yes,3.4,Resolved
+HIT-00445,2026-04-27,Emergency Department,Clinical Application,Medium,Application,49.13,No,Yes,4.2,Closed
+HIT-01158,2026-04-27,Laboratory,Email,Medium,Workstation,49.49,No,Yes,4.4,Resolved
+HIT-00642,2026-04-27,Pharmacy,Printer,High,Workstation,7.46,No,Yes,2.8,Resolved
+HIT-00429,2026-04-27,Emergency Department,Printer,Medium,Laptop,20.32,Yes,No,5.0,Resolved
+HIT-00664,2026-04-27,Cardiology,Network,Medium,Laptop,7.22,No,Yes,5.0,Resolved
+HIT-00566,2026-04-27,Laboratory,Password/Account,High,Mobile Device,1.63,Yes,No,4.9,Closed
+HIT-00322,2026-04-27,Surgery,Hardware,Low,Laptop,89.15,No,Yes,3.3,Resolved
+HIT-01076,2026-04-28,Pharmacy,Hardware,Low,Laptop,39.98,No,Yes,4.4,Closed
+HIT-00666,2026-04-28,Pharmacy,Network,Medium,Network Device,47.4,No,Yes,4.9,Resolved
+HIT-00805,2026-04-28,Laboratory,Hardware,Critical,Mobile Device,0.9,No,Yes,4.9,Resolved
+HIT-00706,2026-04-28,Primary Care,Email,Medium,Desktop,21.18,Yes,No,5.0,Resolved
+HIT-00653,2026-04-28,Radiology,Telehealth,High,Workstation,27.41,No,Yes,5.0,Resolved
+HIT-01194,2026-04-28,Radiology,Other,Medium,Workstation,11.73,Yes,No,3.6,Resolved
+HIT-00952,2026-04-28,Primary Care,Network,Medium,Desktop,46.29,Yes,No,4.7,Closed
+HIT-00442,2026-04-28,Primary Care,Hardware,Medium,Network Device,19.27,No,Yes,5.0,Closed
+HIT-00752,2026-04-28,Laboratory,Hardware,High,Desktop,2.58,Yes,No,5.0,Closed
+HIT-00178,2026-04-28,Cardiology,EHR Access,High,Desktop,12.56,Yes,No,2.6,Resolved
+HIT-00938,2026-04-28,Cardiology,Password/Account,Medium,Application,25.46,No,Yes,3.9,Resolved
+HIT-00878,2026-04-29,Radiology,Printer,Medium,Desktop,35.66,No,Yes,4.3,Closed
+HIT-00298,2026-04-29,Cardiology,Email,Medium,Network Device,16.31,No,Yes,5.0,Closed
+HIT-00704,2026-04-29,Laboratory,Network,High,Printer,2.14,No,Yes,5.0,Resolved
+HIT-00262,2026-04-30,Primary Care,Network,Medium,Printer,11.38,No,No,3.7,Resolved
+HIT-01001,2026-04-30,Radiology,Other,Medium,Application,17.66,No,Yes,3.7,Resolved
+HIT-00525,2026-04-30,Surgery,Network,High,Application,6.24,No,Yes,4.9,Closed
+HIT-01123,2026-04-30,Emergency Department,Printer,High,Workstation,8.74,No,Yes,4.3,Resolved
+HIT-00423,2026-04-30,Laboratory,Other,Medium,Laptop,27.97,No,Yes,4.6,Closed
+HIT-00911,2026-05-01,Surgery,Clinical Application,Low,Laptop,38.47,No,Yes,5.0,Resolved
+HIT-00842,2026-05-01,Emergency Department,Hardware,High,Desktop,5.73,No,No,3.5,Closed
+HIT-00164,2026-05-01,Surgery,Clinical Application,Critical,Network Device,1.62,No,Yes,3.9,Closed
+HIT-00166,2026-05-01,Pharmacy,Printer,Medium,Mobile Device,17.63,No,Yes,3.0,Resolved
+HIT-00600,2026-05-02,Primary Care,Hardware,Medium,Workstation,15.8,No,Yes,4.2,Resolved
+HIT-00437,2026-05-02,Emergency Department,Printer,Low,Laptop,96.0,No,Yes,4.3,Resolved
+HIT-00818,2026-05-02,Primary Care,Network,Medium,Application,18.87,No,Yes,3.6,Resolved
+HIT-00583,2026-05-02,Radiology,Network,Medium,Workstation,6.16,Yes,No,3.0,Resolved
+HIT-00677,2026-05-02,Administration,Network,High,Printer,7.16,Yes,No,4.7,Resolved
+HIT-01130,2026-05-02,Emergency Department,Hardware,High,Workstation,4.88,No,Yes,5.0,Resolved
+HIT-00009,2026-05-02,Surgery,Email,Medium,Mobile Device,13.86,No,Yes,4.6,Resolved
+HIT-01073,2026-05-03,Radiology,EHR Access,High,Printer,31.57,Yes,No,3.6,Resolved
+HIT-00754,2026-05-03,Surgery,Hardware,Medium,Printer,37.76,No,Yes,4.0,Closed
+HIT-01023,2026-05-03,Surgery,Network,Medium,Laptop,18.54,No,Yes,2.8,Resolved
+HIT-00207,2026-05-03,Radiology,EHR Access,Low,Network Device,27.73,No,No,3.4,Closed
+HIT-00103,2026-05-03,Primary Care,Network,Low,Workstation,23.66,No,Yes,3.8,Resolved
+HIT-00572,2026-05-03,Primary Care,EHR Access,High,Printer,1.55,Yes,No,5.0,Resolved
+HIT-00325,2026-05-04,Cardiology,Hardware,Medium,Application,39.83,No,Yes,3.7,Closed
+HIT-00418,2026-05-04,Pharmacy,Hardware,Low,Laptop,31.48,No,Yes,2.9,Closed
+HIT-00490,2026-05-04,Laboratory,Hardware,High,Mobile Device,3.95,No,Yes,5.0,Resolved
+HIT-00084,2026-05-04,Laboratory,EHR Access,Low,Network Device,35.34,No,No,3.1,Closed
+HIT-00217,2026-05-04,Cardiology,Clinical Application,Medium,Application,13.27,No,Yes,3.9,Resolved
+HIT-00132,2026-05-04,Laboratory,Printer,Medium,Laptop,23.33,No,Yes,2.7,Closed
+HIT-01039,2026-05-05,Administration,Clinical Application,Medium,Workstation,12.76,No,Yes,3.3,Closed
+HIT-00388,2026-05-05,Cardiology,Network,Critical,Laptop,1.81,No,Yes,5.0,Resolved
+HIT-00798,2026-05-06,Emergency Department,Printer,Critical,Mobile Device,2.0,No,Yes,4.9,Closed
+HIT-00200,2026-05-06,Administration,Other,Medium,Application,8.27,No,Yes,5.0,Resolved
+HIT-00441,2026-05-06,Radiology,Hardware,Medium,Mobile Device,13.6,No,No,4.7,Closed
+HIT-00883,2026-05-06,Cardiology,Clinical Application,Medium,Mobile Device,48.65,Yes,No,4.5,Resolved
+HIT-00624,2026-05-06,Emergency Department,Clinical Application,Medium,Mobile Device,28.12,No,No,4.0,Resolved
+HIT-00627,2026-05-06,Surgery,Network,Low,Workstation,20.04,No,Yes,4.8,Resolved
+HIT-00965,2026-05-06,Surgery,EHR Access,Medium,Workstation,47.75,No,Yes,4.2,Resolved
+HIT-00858,2026-05-07,Administration,EHR Access,Low,Network Device,66.32,No,Yes,4.0,Resolved
+HIT-01126,2026-05-07,Administration,Email,High,Laptop,7.37,Yes,No,5.0,Resolved
+HIT-00351,2026-05-07,Administration,Printer,Low,Application,28.39,No,Yes,4.4,Resolved
+HIT-00631,2026-05-07,Laboratory,Email,Medium,Application,13.35,No,Yes,4.9,Resolved
+HIT-00432,2026-05-07,Primary Care,Password/Account,Medium,Desktop,18.18,No,No,5.0,Resolved
+HIT-00337,2026-05-08,Surgery,Password/Account,Low,Workstation,32.96,No,Yes,4.0,Resolved
+HIT-00277,2026-05-08,Primary Care,Clinical Application,Critical,Mobile Device,0.94,No,Yes,3.9,Closed
+HIT-00561,2026-05-08,Primary Care,Printer,Medium,Workstation,52.17,No,Yes,5.0,Resolved
+HIT-01172,2026-05-08,Surgery,EHR Access,Medium,Workstation,22.17,No,Yes,3.6,Resolved
+HIT-00290,2026-05-08,Surgery,Network,Medium,Mobile Device,18.37,No,Yes,5.0,Resolved
+HIT-00294,2026-05-08,Laboratory,Printer,Medium,Desktop,22.09,No,Yes,4.5,Closed
+HIT-00161,2026-05-08,Cardiology,Clinical Application,High,Application,3.17,Yes,No,5.0,Resolved
+HIT-00231,2026-05-08,Cardiology,Email,High,Printer,5.19,No,Yes,4.4,Resolved
+HIT-00483,2026-05-08,Emergency Department,Clinical Application,Low,Network Device,96.0,No,Yes,4.4,Resolved
+HIT-00235,2026-05-09,Laboratory,Telehealth,High,Mobile Device,10.63,No,Yes,2.8,Resolved
+HIT-00722,2026-05-09,Administration,EHR Access,Medium,Desktop,11.16,Yes,No,4.7,Resolved
+HIT-00249,2026-05-09,Surgery,Other,High,Printer,14.19,Yes,No,2.7,Closed
+HIT-00198,2026-05-09,Cardiology,Hardware,Medium,Workstation,9.96,Yes,No,4.6,Resolved
+HIT-00435,2026-05-09,Radiology,Other,High,Application,6.5,Yes,No,2.2,Resolved
+HIT-00163,2026-05-09,Primary Care,EHR Access,High,Desktop,8.96,Yes,No,3.1,Resolved
+HIT-00446,2026-05-09,Pharmacy,Email,High,Desktop,7.0,No,No,3.7,Closed
+HIT-00094,2026-05-09,Emergency Department,Network,High,Desktop,12.97,Yes,No,4.6,Closed
+HIT-00509,2026-05-10,Surgery,Clinical Application,Medium,Desktop,10.83,Yes,No,4.8,Resolved
+HIT-00863,2026-05-10,Pharmacy,Printer,Low,Laptop,44.11,No,Yes,4.7,Closed
+HIT-00981,2026-05-10,Cardiology,Network,Low,Workstation,96.0,Yes,No,2.8,Resolved
+HIT-00978,2026-05-10,Administration,Telehealth,Critical,Mobile Device,1.66,Yes,No,4.0,Resolved
+HIT-01092,2026-05-10,Laboratory,Clinical Application,Medium,Application,65.82,No,No,4.8,Resolved
+HIT-00353,2026-05-10,Radiology,EHR Access,High,Desktop,3.89,No,Yes,4.5,Resolved
+HIT-00052,2026-05-10,Emergency Department,Email,High,Desktop,2.59,No,Yes,5.0,Resolved
+HIT-00187,2026-05-10,Laboratory,Printer,Medium,Workstation,23.68,No,No,5.0,Closed
+HIT-00201,2026-05-10,Surgery,EHR Access,High,Laptop,11.42,Yes,No,3.0,Resolved
+HIT-01167,2026-05-10,Surgery,Clinical Application,Medium,Workstation,22.97,No,Yes,4.8,Resolved
+HIT-00195,2026-05-10,Administration,Network,High,Network Device,3.84,No,Yes,4.5,Resolved
+HIT-00023,2026-05-10,Radiology,Telehealth,Low,Workstation,70.86,No,No,3.9,Resolved
+HIT-00038,2026-05-11,Surgery,Printer,Medium,Mobile Device,22.9,No,Yes,3.5,Resolved
+HIT-00016,2026-05-11,Pharmacy,Network,High,Workstation,13.2,No,Yes,3.1,Resolved
+HIT-00122,2026-05-11,Primary Care,Other,Low,Printer,54.96,Yes,No,5.0,Resolved
+HIT-00258,2026-05-11,Primary Care,Network,Medium,Workstation,11.23,No,Yes,3.8,Resolved
+HIT-00188,2026-05-11,Radiology,Network,Critical,Desktop,0.45,No,Yes,4.7,Resolved
+HIT-00927,2026-05-11,Primary Care,Other,High,Network Device,11.1,No,Yes,3.8,Closed
+HIT-00635,2026-05-11,Radiology,Hardware,High,Workstation,2.7,No,No,5.0,Resolved
+HIT-00788,2026-05-12,Emergency Department,Other,Medium,Workstation,17.29,No,Yes,3.0,Resolved
+HIT-00613,2026-05-12,Primary Care,Printer,Medium,Network Device,18.92,No,Yes,4.3,Resolved
+HIT-00808,2026-05-12,Surgery,Network,High,Laptop,6.34,No,Yes,5.0,Closed
+HIT-01027,2026-05-12,Primary Care,Clinical Application,Low,Printer,96.0,No,Yes,3.2,Resolved
+HIT-00810,2026-05-12,Surgery,Password/Account,Critical,Printer,1.37,No,Yes,4.2,Resolved
+HIT-00045,2026-05-12,Laboratory,Other,Low,Laptop,61.16,No,Yes,4.9,Closed
+HIT-00064,2026-05-12,Cardiology,Hardware,Medium,Network Device,10.93,No,Yes,5.0,Resolved
+HIT-00138,2026-05-12,Primary Care,Printer,Low,Laptop,88.22,No,Yes,3.4,Resolved
+HIT-00949,2026-05-13,Administration,Email,Medium,Network Device,61.14,No,Yes,4.4,Resolved
+HIT-00786,2026-05-13,Pharmacy,Hardware,Critical,Application,0.29,No,Yes,2.0,Resolved
+HIT-00830,2026-05-13,Emergency Department,EHR Access,Medium,Printer,57.09,No,Yes,5.0,Resolved
+HIT-01122,2026-05-13,Primary Care,Printer,Medium,Laptop,23.98,No,Yes,5.0,Closed
+HIT-00727,2026-05-13,Administration,Password/Account,Medium,Application,13.71,No,Yes,4.9,Resolved
+HIT-00584,2026-05-13,Laboratory,Hardware,Low,Mobile Device,96.0,No,Yes,3.5,Closed
+HIT-00758,2026-05-13,Radiology,Clinical Application,Medium,Desktop,48.63,No,Yes,4.1,Closed
+HIT-00937,2026-05-14,Administration,Network,Medium,Mobile Device,22.44,No,Yes,4.6,Resolved
+HIT-00643,2026-05-14,Pharmacy,Network,Medium,Workstation,17.32,No,Yes,5.0,Closed
+HIT-00694,2026-05-14,Primary Care,Password/Account,Medium,Printer,23.98,No,No,3.7,Resolved
+HIT-00066,2026-05-14,Radiology,Hardware,High,Network Device,4.61,No,Yes,4.5,Resolved
+HIT-00971,2026-05-14,Administration,Clinical Application,Medium,Desktop,22.21,No,Yes,3.5,Resolved
+HIT-01053,2026-05-14,Surgery,Email,Low,Application,96.0,No,Yes,3.8,Resolved
+HIT-00153,2026-05-14,Laboratory,Other,Medium,Laptop,21.64,No,Yes,5.0,Resolved
+HIT-01107,2026-05-14,Primary Care,Password/Account,Low,Application,82.74,No,Yes,4.8,Resolved
+HIT-00292,2026-05-15,Administration,Printer,High,Application,4.42,No,Yes,1.8,Resolved
+HIT-00369,2026-05-15,Radiology,Password/Account,Low,Application,20.05,No,Yes,5.0,Resolved
+HIT-00040,2026-05-15,Administration,Email,Medium,Mobile Device,14.05,No,No,4.5,Closed
+HIT-01168,2026-05-15,Cardiology,EHR Access,High,Application,4.81,No,Yes,4.5,Closed
+HIT-00520,2026-05-15,Laboratory,Printer,Medium,Network Device,21.41,No,Yes,4.3,Resolved
+HIT-01055,2026-05-15,Cardiology,Email,High,Application,9.96,No,Yes,3.9,Resolved
+HIT-00107,2026-05-15,Radiology,Clinical Application,Medium,Application,12.87,Yes,No,4.8,Resolved
+HIT-00944,2026-05-16,Administration,Network,Critical,Application,0.92,No,Yes,3.7,Resolved
+HIT-00095,2026-05-16,Emergency Department,Clinical Application,Critical,Printer,1.51,No,Yes,4.5,Closed
+HIT-00681,2026-05-16,Surgery,Printer,Medium,Mobile Device,50.67,No,Yes,5.0,Resolved
+HIT-00606,2026-05-16,Laboratory,EHR Access,Low,Desktop,84.79,No,Yes,3.6,Closed
+HIT-00099,2026-05-16,Surgery,Password/Account,Medium,Workstation,17.03,No,Yes,4.9,Resolved
+HIT-01085,2026-05-16,Cardiology,Network,High,Network Device,23.29,Yes,No,5.0,Resolved
+HIT-00291,2026-05-16,Pharmacy,Telehealth,Medium,Mobile Device,29.74,No,Yes,3.9,Resolved
+HIT-00128,2026-05-17,Cardiology,Email,Low,Mobile Device,41.96,No,Yes,4.6,Resolved
+HIT-01155,2026-05-17,Administration,Other,High,Laptop,7.02,Yes,No,3.9,Resolved
+HIT-00171,2026-05-17,Laboratory,EHR Access,Low,Workstation,25.15,Yes,No,3.8,Resolved
+HIT-00433,2026-05-17,Laboratory,Hardware,Low,Laptop,50.38,No,Yes,4.0,Closed
+HIT-00357,2026-05-17,Surgery,Password/Account,Medium,Mobile Device,22.83,No,Yes,5.0,Closed
+HIT-01131,2026-05-17,Emergency Department,Network,Medium,Network Device,16.59,No,Yes,4.9,Resolved
+HIT-00597,2026-05-17,Pharmacy,Password/Account,Medium,Network Device,18.99,No,Yes,5.0,Resolved
+HIT-01002,2026-05-17,Primary Care,Clinical Application,Medium,Desktop,15.7,No,No,3.6,Resolved
+HIT-00926,2026-05-17,Emergency Department,Clinical Application,Low,Workstation,27.92,No,Yes,3.6,Resolved
+HIT-00529,2026-05-18,Emergency Department,Printer,Low,Workstation,67.4,No,Yes,3.8,Resolved
+HIT-00976,2026-05-18,Radiology,Other,Low,Network Device,43.5,No,Yes,5.0,Closed
+HIT-00890,2026-05-18,Cardiology,Network,Medium,Printer,13.27,No,Yes,4.5,Closed
+HIT-00789,2026-05-18,Primary Care,EHR Access,Medium,Application,19.28,No,No,3.7,Resolved
+HIT-00473,2026-05-18,Primary Care,Network,Medium,Network Device,33.4,No,No,4.3,Closed
+HIT-00214,2026-05-19,Radiology,EHR Access,Low,Application,59.1,Yes,No,5.0,Resolved
+HIT-00966,2026-05-19,Emergency Department,Network,High,Network Device,3.25,No,Yes,3.8,Resolved
+HIT-00097,2026-05-19,Radiology,EHR Access,Medium,Mobile Device,18.47,Yes,No,4.3,Resolved
+HIT-00434,2026-05-20,Laboratory,Clinical Application,Critical,Mobile Device,0.96,No,Yes,4.8,Resolved
+HIT-00556,2026-05-20,Laboratory,Printer,Low,Application,46.97,No,Yes,4.4,Resolved
+HIT-00251,2026-05-20,Pharmacy,Email,Medium,Printer,39.91,No,Yes,4.3,Resolved
+HIT-00957,2026-05-20,Pharmacy,Other,Critical,Laptop,2.04,No,Yes,4.6,Resolved
+HIT-00487,2026-05-20,Pharmacy,EHR Access,Medium,Workstation,22.12,No,Yes,2.9,Closed
+HIT-00569,2026-05-20,Surgery,Password/Account,Medium,Desktop,22.48,No,No,5.0,Resolved
+HIT-01113,2026-05-20,Radiology,Other,Low,Application,81.22,No,Yes,3.9,Resolved
+HIT-00505,2026-05-21,Emergency Department,Hardware,Medium,Network Device,28.16,Yes,No,5.0,Closed
+HIT-00626,2026-05-21,Radiology,Telehealth,Low,Mobile Device,40.42,Yes,No,4.5,Resolved
+HIT-01114,2026-05-21,Surgery,Clinical Application,Medium,Desktop,38.46,No,Yes,4.8,Resolved
+HIT-00552,2026-05-21,Surgery,Hardware,High,Application,10.4,No,Yes,4.0,Resolved
+HIT-01078,2026-05-21,Administration,Telehealth,Medium,Workstation,88.15,Yes,No,3.4,Resolved
+HIT-00691,2026-05-21,Laboratory,Password/Account,High,Network Device,2.44,No,Yes,5.0,Resolved
+HIT-00594,2026-05-21,Pharmacy,EHR Access,Medium,Application,14.82,No,Yes,5.0,Closed
+HIT-00765,2026-05-22,Primary Care,Network,Critical,Application,1.34,No,Yes,5.0,Closed
+HIT-00125,2026-05-22,Pharmacy,Password/Account,Medium,Workstation,35.74,No,Yes,4.3,Resolved
+HIT-00582,2026-05-22,Surgery,Password/Account,High,Desktop,6.76,No,Yes,4.4,Resolved
+HIT-00961,2026-05-22,Pharmacy,Printer,Low,Printer,44.86,No,Yes,4.4,Resolved
+HIT-00377,2026-05-22,Pharmacy,Other,High,Mobile Device,5.75,Yes,No,4.1,Resolved
+HIT-00286,2026-05-22,Cardiology,Telehealth,Medium,Network Device,17.86,No,No,4.0,Resolved
+HIT-01151,2026-05-23,Surgery,EHR Access,Low,Desktop,16.2,No,No,4.9,Resolved
+HIT-01044,2026-05-23,Emergency Department,Clinical Application,High,Network Device,12.18,No,Yes,3.1,Closed
+HIT-00140,2026-05-23,Surgery,EHR Access,Low,Printer,50.24,Yes,No,3.7,Resolved
+HIT-00989,2026-05-23,Emergency Department,EHR Access,Low,Printer,43.34,No,Yes,3.8,Resolved
+HIT-00661,2026-05-23,Primary Care,Printer,Medium,Mobile Device,16.61,No,Yes,5.0,Resolved
+HIT-00379,2026-05-23,Cardiology,Network,Medium,Laptop,10.63,No,Yes,4.0,Resolved
+HIT-00668,2026-05-24,Cardiology,EHR Access,Medium,Workstation,43.79,Yes,No,4.1,Resolved
+HIT-00453,2026-05-24,Primary Care,Printer,Medium,Mobile Device,19.97,Yes,No,5.0,Resolved
+HIT-00460,2026-05-24,Laboratory,Printer,Medium,Network Device,13.19,No,Yes,4.7,Resolved
+HIT-00415,2026-05-24,Pharmacy,EHR Access,High,Network Device,5.17,No,Yes,4.1,Closed
+HIT-00215,2026-05-24,Radiology,Hardware,Low,Application,64.73,No,Yes,4.9,Resolved
+HIT-00575,2026-05-24,Primary Care,Hardware,Medium,Desktop,43.12,No,Yes,5.0,Resolved
+HIT-00565,2026-05-24,Cardiology,EHR Access,Low,Workstation,53.44,Yes,No,4.1,Resolved
+HIT-00376,2026-05-24,Cardiology,Email,Low,Mobile Device,45.79,No,Yes,3.9,Resolved
+HIT-00243,2026-05-24,Cardiology,Password/Account,Medium,Network Device,19.19,No,Yes,3.8,Resolved
+HIT-00806,2026-05-24,Laboratory,Hardware,Low,Network Device,35.32,Yes,No,4.3,Resolved
+HIT-00735,2026-05-25,Cardiology,EHR Access,Medium,Laptop,11.05,No,Yes,3.3,Resolved
+HIT-00610,2026-05-25,Laboratory,Other,Medium,Application,11.23,Yes,No,3.8,Resolved
+HIT-00293,2026-05-25,Surgery,Clinical Application,Medium,Mobile Device,35.87,No,Yes,4.0,Resolved
+HIT-00760,2026-05-25,Primary Care,Clinical Application,High,Workstation,2.61,No,Yes,5.0,Closed
+HIT-00208,2026-05-25,Primary Care,EHR Access,Medium,Laptop,11.54,No,Yes,4.9,Closed
+HIT-00422,2026-05-25,Radiology,Clinical Application,Low,Laptop,19.44,No,Yes,4.6,Closed
+HIT-01046,2026-05-25,Administration,Clinical Application,High,Network Device,8.65,No,Yes,4.3,Resolved
+HIT-00591,2026-05-25,Administration,Password/Account,High,Printer,12.93,No,No,3.3,Resolved
+HIT-00886,2026-05-25,Emergency Department,Email,Low,Laptop,70.1,No,Yes,3.6,Resolved
+HIT-00790,2026-05-25,Emergency Department,Clinical Application,Medium,Mobile Device,13.27,Yes,No,3.9,Resolved
+HIT-00688,2026-05-25,Emergency Department,EHR Access,Medium,Laptop,27.9,No,Yes,4.0,Closed
+HIT-00071,2026-05-26,Cardiology,EHR Access,Low,Printer,40.28,No,No,3.7,Closed
+HIT-01031,2026-05-26,Radiology,EHR Access,Low,Mobile Device,82.52,No,Yes,4.7,Resolved
+HIT-00657,2026-05-26,Surgery,Network,Medium,Application,22.44,No,No,4.3,Resolved
+HIT-00587,2026-05-26,Radiology,EHR Access,Low,Workstation,56.05,No,Yes,5.0,Closed
+HIT-00276,2026-05-26,Surgery,Telehealth,High,Network Device,6.36,Yes,No,3.6,Closed
+HIT-00893,2026-05-26,Surgery,Hardware,High,Application,19.23,No,Yes,4.2,Resolved
+HIT-00708,2026-05-26,Laboratory,Password/Account,Medium,Network Device,11.22,No,Yes,3.2,Closed
+HIT-00256,2026-05-27,Laboratory,Network,Medium,Network Device,33.18,No,Yes,2.9,Resolved
+HIT-00199,2026-05-27,Emergency Department,Network,Low,Application,34.5,No,Yes,3.1,Resolved
+HIT-00474,2026-05-27,Administration,Printer,Medium,Application,20.31,No,Yes,5.0,Resolved
+HIT-00820,2026-05-27,Emergency Department,Printer,Low,Printer,65.68,No,Yes,3.5,Resolved
+HIT-00557,2026-05-27,Emergency Department,Email,High,Workstation,3.64,Yes,No,5.0,Resolved
+HIT-00225,2026-05-27,Laboratory,Telehealth,Medium,Workstation,12.93,No,Yes,4.9,Resolved
+HIT-00223,2026-05-27,Emergency Department,Printer,High,Printer,4.84,No,Yes,3.7,Resolved
+HIT-00655,2026-05-27,Surgery,EHR Access,Low,Network Device,56.7,No,Yes,4.2,Resolved
+HIT-00314,2026-05-27,Radiology,Password/Account,Medium,Printer,19.53,No,Yes,3.3,Resolved
+HIT-00421,2026-05-27,Laboratory,Clinical Application,High,Desktop,8.79,No,Yes,4.2,Resolved
+HIT-00629,2026-05-28,Radiology,Telehealth,High,Workstation,4.75,No,Yes,5.0,Resolved
+HIT-01102,2026-05-28,Pharmacy,Hardware,High,Application,11.66,No,No,4.4,Resolved
+HIT-00221,2026-05-28,Laboratory,Email,Low,Mobile Device,96.0,No,Yes,5.0,Closed
+HIT-01193,2026-05-28,Radiology,Printer,High,Application,6.17,No,Yes,4.2,Resolved
+HIT-00289,2026-05-28,Pharmacy,Telehealth,Low,Network Device,64.31,No,Yes,4.9,Closed
+HIT-00259,2026-05-28,Radiology,Network,High,Printer,3.18,No,Yes,3.4,Closed
+HIT-00226,2026-05-28,Laboratory,EHR Access,Medium,Desktop,9.24,No,Yes,4.8,Closed
+HIT-00827,2026-05-29,Administration,Email,High,Laptop,12.48,No,Yes,4.0,Resolved
+HIT-00723,2026-05-29,Laboratory,Password/Account,High,Workstation,10.78,No,Yes,3.3,Resolved
+HIT-01152,2026-05-29,Emergency Department,Password/Account,High,Laptop,22.0,No,Yes,4.3,Closed
+HIT-00651,2026-05-29,Administration,Other,Low,Desktop,25.97,No,No,4.2,Resolved
+HIT-01141,2026-05-29,Cardiology,EHR Access,High,Printer,5.34,No,Yes,5.0,Closed
+HIT-01009,2026-05-30,Administration,Other,Low,Laptop,25.81,No,No,4.0,Closed
+HIT-00914,2026-05-30,Primary Care,EHR Access,Medium,Laptop,50.41,No,Yes,3.9,Resolved
+HIT-01184,2026-05-30,Radiology,Password/Account,Low,Desktop,31.72,Yes,No,4.0,Resolved
+HIT-00017,2026-05-30,Surgery,Clinical Application,Medium,Laptop,19.47,No,Yes,2.9,Resolved
+HIT-00389,2026-05-30,Surgery,Printer,High,Workstation,9.52,Yes,No,5.0,Resolved
+HIT-00872,2026-05-31,Surgery,EHR Access,High,Laptop,5.27,No,Yes,4.2,Resolved
+HIT-00537,2026-05-31,Radiology,Printer,Medium,Workstation,18.9,No,Yes,3.4,Resolved
+HIT-00975,2026-05-31,Emergency Department,EHR Access,Low,Network Device,46.22,No,No,3.4,Closed
+HIT-00802,2026-05-31,Administration,EHR Access,High,Workstation,8.4,No,Yes,3.8,Resolved
+HIT-00574,2026-05-31,Pharmacy,Clinical Application,Medium,Desktop,26.95,No,Yes,3.7,Resolved
+HIT-00139,2026-05-31,Radiology,Network,High,Workstation,3.68,No,No,5.0,Resolved
+HIT-00763,2026-05-31,Emergency Department,Clinical Application,Medium,Mobile Device,22.68,Yes,No,3.8,Resolved
+HIT-01137,2026-05-31,Pharmacy,EHR Access,Medium,Application,27.05,No,Yes,5.0,Resolved
+HIT-00238,2026-05-31,Primary Care,Other,Medium,Application,10.7,No,Yes,4.8,Closed
+HIT-00113,2026-05-31,Laboratory,Clinical Application,Medium,Network Device,26.8,No,Yes,4.2,Resolved
+HIT-00350,2026-05-31,Pharmacy,Clinical Application,Medium,Printer,34.82,No,No,3.8,Resolved
+HIT-00673,2026-06-01,Pharmacy,Network,Medium,Printer,8.03,Yes,No,5.0,Closed
+HIT-01176,2026-06-01,Laboratory,Email,High,Printer,21.0,No,Yes,3.9,Resolved
+HIT-00931,2026-06-01,Cardiology,Telehealth,High,Printer,9.05,Yes,No,3.9,Resolved
+HIT-00536,2026-06-01,Cardiology,EHR Access,High,Mobile Device,10.76,No,No,3.5,Resolved
+HIT-00531,2026-06-01,Radiology,EHR Access,High,Network Device,4.17,No,Yes,2.8,Resolved
+HIT-00176,2026-06-01,Pharmacy,Email,Medium,Application,16.09,Yes,No,5.0,Resolved
+HIT-00264,2026-06-01,Primary Care,Clinical Application,Medium,Application,39.57,No,Yes,3.7,Resolved
+HIT-00366,2026-06-01,Pharmacy,Password/Account,Medium,Workstation,23.02,No,Yes,3.3,Resolved
+HIT-00924,2026-06-01,Administration,EHR Access,Medium,Printer,20.15,Yes,No,3.9,Resolved
+HIT-00015,2026-06-01,Emergency Department,Network,Critical,Mobile Device,2.33,No,Yes,4.0,Resolved
+HIT-00260,2026-06-01,Surgery,Other,Medium,Laptop,42.7,No,Yes,4.3,Resolved
+HIT-00990,2026-06-01,Pharmacy,Printer,Medium,Workstation,26.23,No,Yes,3.6,Resolved
+HIT-00486,2026-06-01,Primary Care,Network,Medium,Printer,15.35,Yes,No,2.8,Closed
+HIT-01045,2026-06-02,Cardiology,Hardware,Medium,Network Device,15.15,Yes,No,3.2,Resolved
+HIT-00386,2026-06-02,Cardiology,Clinical Application,Low,Mobile Device,17.66,No,Yes,4.4,Resolved
+HIT-00638,2026-06-02,Administration,Printer,High,Workstation,5.97,No,Yes,4.4,Closed
+HIT-00698,2026-06-02,Emergency Department,Email,Medium,Workstation,10.55,No,Yes,4.3,Resolved
+HIT-00365,2026-06-02,Surgery,Email,Critical,Desktop,0.82,No,Yes,4.6,Closed
+HIT-00274,2026-06-02,Cardiology,EHR Access,Medium,Laptop,27.7,No,Yes,4.7,Resolved
+HIT-00515,2026-06-03,Emergency Department,Email,High,Printer,5.64,No,Yes,4.4,Closed
+HIT-00083,2026-06-03,Administration,Hardware,Medium,Printer,35.6,No,No,3.3,Resolved
+HIT-01159,2026-06-03,Cardiology,Password/Account,Medium,Desktop,25.84,No,Yes,4.6,Closed
+HIT-00865,2026-06-03,Pharmacy,Password/Account,Medium,Network Device,28.68,No,Yes,4.4,Closed
+HIT-01025,2026-06-03,Surgery,Hardware,Low,Laptop,53.63,Yes,No,4.1,Resolved
+HIT-00951,2026-06-03,Radiology,EHR Access,High,Printer,12.16,No,Yes,4.8,Resolved
+HIT-00452,2026-06-03,Laboratory,Printer,Medium,Printer,8.66,No,No,3.7,Closed
+HIT-01185,2026-06-03,Pharmacy,Other,Low,Mobile Device,95.09,No,No,3.6,Resolved
+HIT-00750,2026-06-03,Pharmacy,Clinical Application,Low,Mobile Device,35.86,Yes,No,4.4,Closed
+HIT-00838,2026-06-04,Cardiology,Printer,Medium,Network Device,21.16,No,No,3.2,Resolved
+HIT-01067,2026-06-04,Administration,Email,Low,Mobile Device,22.37,No,Yes,4.2,Closed
+HIT-00170,2026-06-04,Primary Care,Hardware,Medium,Workstation,11.65,No,Yes,3.9,Resolved
+HIT-01062,2026-06-04,Radiology,Network,Medium,Mobile Device,39.98,No,Yes,5.0,Resolved
+HIT-00813,2026-06-04,Administration,Password/Account,Low,Printer,30.18,No,Yes,4.1,Resolved
+HIT-00352,2026-06-04,Cardiology,Hardware,Medium,Workstation,32.93,No,Yes,5.0,Resolved
+HIT-00687,2026-06-04,Surgery,Network,Medium,Network Device,16.75,No,Yes,3.8,Resolved
+HIT-01093,2026-06-04,Cardiology,Clinical Application,Low,Application,33.9,Yes,No,4.1,Resolved
+HIT-00674,2026-06-05,Primary Care,Password/Account,Medium,Desktop,21.03,No,Yes,3.7,Resolved
+HIT-01186,2026-06-05,Surgery,Other,Medium,Network Device,14.93,No,No,5.0,Resolved
+HIT-01087,2026-06-06,Radiology,Printer,Medium,Workstation,11.44,No,Yes,3.1,Resolved
+HIT-01064,2026-06-06,Emergency Department,EHR Access,Low,Workstation,39.89,No,Yes,5.0,Resolved
+HIT-01084,2026-06-06,Emergency Department,EHR Access,Medium,Network Device,19.19,No,Yes,4.0,Closed
+HIT-01060,2026-06-06,Cardiology,Clinical Application,Low,Application,24.04,No,Yes,4.9,Resolved
+HIT-00524,2026-06-06,Pharmacy,EHR Access,Medium,Printer,31.38,Yes,No,4.5,Closed
+HIT-00690,2026-06-06,Radiology,Email,Medium,Mobile Device,10.41,No,Yes,3.5,Resolved
+HIT-00086,2026-06-06,Primary Care,Clinical Application,High,Mobile Device,8.3,Yes,No,3.8,Closed
+HIT-00300,2026-06-07,Laboratory,EHR Access,Medium,Mobile Device,28.67,No,No,4.1,Closed
+HIT-00420,2026-06-07,Emergency Department,Clinical Application,High,Workstation,19.93,No,No,4.1,Resolved
+HIT-00320,2026-06-07,Pharmacy,Password/Account,Medium,Laptop,25.71,No,No,4.1,Closed
+HIT-00021,2026-06-07,Cardiology,Clinical Application,High,Desktop,8.96,No,Yes,4.4,Resolved
+HIT-00662,2026-06-08,Primary Care,Clinical Application,High,Desktop,3.7,Yes,No,5.0,Resolved
+HIT-00616,2026-06-08,Laboratory,Printer,Low,Mobile Device,96.0,No,Yes,4.1,Closed
+HIT-00239,2026-06-08,Surgery,Clinical Application,Medium,Mobile Device,18.3,No,No,5.0,Resolved
+HIT-01079,2026-06-08,Cardiology,Network,Medium,Network Device,18.91,No,No,4.7,Closed
+HIT-00145,2026-06-09,Primary Care,EHR Access,Low,Application,96.0,No,Yes,4.1,Resolved
+HIT-00334,2026-06-09,Pharmacy,Password/Account,High,Printer,5.04,Yes,No,4.4,Closed
+HIT-00179,2026-06-09,Surgery,Network,Low,Network Device,96.0,No,Yes,3.9,Resolved
+HIT-00815,2026-06-09,Emergency Department,Printer,High,Application,3.19,Yes,No,4.6,Resolved
+HIT-00647,2026-06-09,Surgery,Clinical Application,Medium,Network Device,37.66,No,No,4.2,Resolved
+HIT-00205,2026-06-09,Laboratory,EHR Access,Low,Mobile Device,33.32,Yes,No,4.1,Resolved
+HIT-00204,2026-06-09,Laboratory,Telehealth,High,Printer,11.4,No,Yes,4.2,Closed
+HIT-00484,2026-06-09,Administration,Hardware,Low,Workstation,20.2,No,Yes,2.9,Resolved
+HIT-00253,2026-06-09,Administration,Password/Account,Low,Application,40.21,No,No,5.0,Resolved
+HIT-00718,2026-06-10,Surgery,Email,High,Printer,13.36,No,Yes,4.3,Resolved
+HIT-00499,2026-06-10,Cardiology,Clinical Application,Medium,Desktop,31.44,No,Yes,4.1,Resolved
+HIT-00025,2026-06-10,Pharmacy,Email,Medium,Desktop,17.74,No,Yes,5.0,Resolved
+HIT-00970,2026-06-10,Radiology,Other,Low,Mobile Device,32.4,No,Yes,3.0,Closed
+HIT-00492,2026-06-10,Pharmacy,Email,High,Workstation,15.09,No,Yes,5.0,Resolved
+HIT-00283,2026-06-10,Emergency Department,Printer,Low,Printer,35.56,No,Yes,4.9,Closed
+HIT-01180,2026-06-10,Emergency Department,EHR Access,Medium,Desktop,16.85,No,Yes,4.0,Closed
+HIT-00335,2026-06-10,Primary Care,Clinical Application,Low,Printer,36.55,No,Yes,4.4,Resolved
+HIT-00640,2026-06-10,Pharmacy,Printer,High,Network Device,8.72,No,Yes,4.3,Resolved
+HIT-00356,2026-06-10,Administration,Email,High,Printer,3.58,Yes,No,5.0,Resolved
+HIT-00689,2026-06-10,Primary Care,Email,Medium,Workstation,13.67,Yes,No,3.5,Resolved
+HIT-00229,2026-06-10,Cardiology,EHR Access,Medium,Desktop,27.02,No,Yes,5.0,Resolved
+HIT-00263,2026-06-10,Emergency Department,Printer,Low,Workstation,38.86,No,No,3.8,Resolved
+HIT-01003,2026-06-11,Primary Care,Hardware,High,Mobile Device,5.38,No,No,4.8,Resolved
+HIT-00751,2026-06-11,Pharmacy,Printer,High,Desktop,5.33,No,Yes,4.6,Resolved
+HIT-01169,2026-06-11,Surgery,Password/Account,High,Printer,10.51,No,Yes,3.9,Resolved
+HIT-00110,2026-06-11,Cardiology,Other,Low,Desktop,61.03,Yes,No,3.9,Closed
+HIT-00073,2026-06-11,Laboratory,Other,Medium,Mobile Device,15.14,Yes,No,4.2,Closed
+HIT-00517,2026-06-11,Pharmacy,Clinical Application,Low,Mobile Device,48.0,No,Yes,3.1,Resolved
+HIT-00489,2026-06-12,Laboratory,Password/Account,Low,Printer,55.98,No,Yes,3.6,Closed
+HIT-00100,2026-06-12,Surgery,Clinical Application,High,Application,12.27,No,Yes,4.4,Resolved
+HIT-00585,2026-06-12,Primary Care,Printer,Medium,Workstation,18.01,No,No,3.1,Resolved
+HIT-00992,2026-06-12,Primary Care,Hardware,Low,Mobile Device,31.18,No,Yes,3.8,Closed
+HIT-00281,2026-06-12,Administration,Clinical Application,High,Application,7.45,Yes,No,4.7,Resolved
+HIT-00101,2026-06-12,Laboratory,Password/Account,High,Workstation,8.3,No,No,4.2,Resolved
+HIT-00268,2026-06-13,Pharmacy,Network,Low,Desktop,28.21,No,Yes,3.8,Closed
+HIT-01144,2026-06-13,Administration,EHR Access,High,Mobile Device,3.6,No,No,4.5,Resolved
+HIT-00654,2026-06-13,Cardiology,Email,Medium,Mobile Device,20.2,No,Yes,4.1,Resolved
+HIT-00222,2026-06-13,Administration,Clinical Application,Low,Mobile Device,51.48,No,Yes,4.3,Resolved
+HIT-00061,2026-06-13,Pharmacy,Hardware,Medium,Printer,43.2,No,Yes,4.3,Resolved
+HIT-01096,2026-06-13,Primary Care,Email,High,Laptop,3.64,No,No,3.2,Closed
+HIT-01063,2026-06-13,Radiology,Network,High,Mobile Device,9.58,No,Yes,3.5,Resolved
+HIT-00528,2026-06-13,Emergency Department,Printer,Low,Mobile Device,62.38,No,Yes,5.0,Resolved
+HIT-00679,2026-06-13,Administration,Telehealth,High,Network Device,12.31,Yes,No,4.2,Closed
+HIT-00526,2026-06-13,Pharmacy,EHR Access,Medium,Workstation,22.58,Yes,No,4.8,Resolved
+HIT-00603,2026-06-14,Laboratory,Email,High,Printer,3.31,No,Yes,3.9,Resolved
+HIT-00173,2026-06-14,Radiology,Password/Account,Low,Printer,96.0,No,Yes,3.2,Resolved
+HIT-01020,2026-06-14,Emergency Department,Clinical Application,Medium,Network Device,27.91,Yes,No,4.0,Resolved
+HIT-00733,2026-06-14,Primary Care,Printer,Low,Application,58.27,No,Yes,4.5,Resolved
+HIT-01040,2026-06-15,Emergency Department,Telehealth,High,Workstation,12.95,No,Yes,4.5,Resolved
+HIT-00770,2026-06-15,Emergency Department,Other,High,Workstation,3.29,No,Yes,4.6,Resolved
+HIT-00604,2026-06-15,Surgery,Email,Low,Printer,47.94,No,Yes,3.7,Closed
+HIT-00269,2026-06-15,Laboratory,Hardware,Medium,Network Device,39.6,No,Yes,4.0,Resolved
+HIT-00780,2026-06-15,Administration,Hardware,Low,Desktop,57.97,No,Yes,3.0,Resolved
+HIT-00641,2026-06-15,Radiology,Printer,Medium,Laptop,32.91,Yes,No,4.6,Closed
+HIT-00043,2026-06-16,Administration,Email,Low,Mobile Device,47.04,No,Yes,3.5,Resolved
+HIT-00633,2026-06-16,Emergency Department,Password/Account,Medium,Application,18.45,No,Yes,4.3,Closed
+HIT-00581,2026-06-16,Primary Care,Printer,High,Workstation,4.52,No,Yes,5.0,Resolved
+HIT-00619,2026-06-16,Emergency Department,Other,Low,Workstation,41.89,No,Yes,5.0,Closed
+HIT-01150,2026-06-17,Radiology,EHR Access,High,Mobile Device,9.15,No,No,4.2,Resolved
+HIT-00230,2026-06-17,Laboratory,Other,Medium,Mobile Device,12.82,No,No,4.2,Resolved
+HIT-00595,2026-06-17,Laboratory,Password/Account,Critical,Mobile Device,0.9,No,Yes,4.9,Resolved
+HIT-00413,2026-06-17,Primary Care,Network,Medium,Network Device,9.5,No,Yes,3.8,Resolved
+HIT-00500,2026-06-17,Surgery,Network,Low,Printer,92.16,Yes,No,3.1,Resolved
+HIT-00980,2026-06-17,Radiology,EHR Access,High,Application,11.13,No,Yes,4.0,Resolved
+HIT-00899,2026-06-17,Pharmacy,Printer,Low,Application,81.26,No,No,3.4,Closed
+HIT-01160,2026-06-18,Laboratory,EHR Access,Low,Printer,29.21,No,Yes,3.3,Closed
+HIT-00282,2026-06-18,Laboratory,EHR Access,High,Laptop,5.01,Yes,No,4.2,Resolved
+HIT-00903,2026-06-18,Laboratory,Hardware,Low,Printer,51.78,No,No,2.8,Resolved
+HIT-00824,2026-06-19,Pharmacy,Clinical Application,Medium,Network Device,12.79,No,Yes,4.7,Resolved
+HIT-00150,2026-06-19,Surgery,Clinical Application,Low,Printer,96.0,No,Yes,4.8,Closed
+HIT-00596,2026-06-19,Radiology,Other,Low,Workstation,33.35,No,No,4.2,Resolved
+HIT-00395,2026-06-19,Radiology,Printer,High,Mobile Device,5.63,Yes,No,5.0,Resolved
+HIT-00031,2026-06-19,Cardiology,Password/Account,Medium,Network Device,11.08,No,Yes,4.1,Resolved
+HIT-00361,2026-06-19,Cardiology,Other,Low,Laptop,96.0,No,Yes,4.6,Closed
+HIT-01173,2026-06-20,Administration,Telehealth,Medium,Laptop,15.23,No,Yes,5.0,Resolved
+HIT-00494,2026-06-20,Surgery,Other,High,Application,10.93,No,Yes,4.5,Resolved
+HIT-00141,2026-06-20,Administration,EHR Access,High,Application,7.75,Yes,No,4.8,Closed
+HIT-01119,2026-06-20,Pharmacy,Other,Medium,Workstation,10.27,No,Yes,5.0,Closed
+HIT-00056,2026-06-21,Cardiology,Clinical Application,Low,Application,22.73,Yes,No,5.0,Resolved
+HIT-00175,2026-06-21,Administration,Hardware,Low,Printer,46.75,No,Yes,2.9,Resolved
+HIT-00117,2026-06-21,Pharmacy,Telehealth,Medium,Desktop,25.2,No,Yes,4.2,Resolved
+HIT-00203,2026-06-21,Radiology,Hardware,Low,Mobile Device,49.14,Yes,No,4.2,Resolved
+HIT-00977,2026-06-21,Primary Care,Network,Medium,Desktop,23.48,No,Yes,4.3,Resolved
+HIT-00319,2026-06-21,Pharmacy,Password/Account,Low,Mobile Device,96.0,Yes,No,3.8,Resolved
+HIT-00372,2026-06-22,Cardiology,Other,Medium,Laptop,19.69,No,No,5.0,Closed
+HIT-00648,2026-06-22,Emergency Department,Clinical Application,High,Desktop,11.32,No,Yes,4.8,Resolved
+HIT-00625,2026-06-22,Pharmacy,Clinical Application,Medium,Desktop,7.93,Yes,No,4.4,Resolved
+HIT-01091,2026-06-22,Cardiology,EHR Access,High,Mobile Device,4.17,Yes,No,4.4,Resolved
+HIT-00947,2026-06-22,Primary Care,Clinical Application,High,Desktop,14.44,No,Yes,3.8,Resolved
+HIT-00646,2026-06-22,Pharmacy,Password/Account,Low,Mobile Device,20.09,No,Yes,4.1,Resolved
+HIT-00741,2026-06-22,Primary Care,Clinical Application,Medium,Desktop,44.48,No,No,4.0,Resolved
+HIT-00344,2026-06-23,Radiology,EHR Access,Medium,Laptop,12.38,No,Yes,4.3,Closed
+HIT-00593,2026-06-23,Administration,Clinical Application,Medium,Desktop,12.24,No,Yes,5.0,Closed
+HIT-00033,2026-06-24,Cardiology,Network,Low,Application,76.63,No,Yes,3.1,Closed
+HIT-00121,2026-06-24,Primary Care,Hardware,Medium,Workstation,21.5,Yes,No,4.4,Resolved
+HIT-00058,2026-06-24,Cardiology,Printer,Medium,Workstation,14.54,No,No,4.1,Closed
+HIT-00348,2026-06-24,Administration,Clinical Application,Medium,Network Device,4.97,No,Yes,4.0,Resolved
+HIT-01153,2026-06-24,Laboratory,Password/Account,Medium,Desktop,13.38,Yes,No,4.8,Closed
+HIT-00359,2026-06-25,Surgery,EHR Access,Medium,Laptop,26.81,No,Yes,4.8,Resolved
+HIT-00296,2026-06-25,Radiology,Clinical Application,Medium,Workstation,77.93,No,Yes,4.5,Closed
+HIT-00461,2026-06-25,Surgery,Network,Low,Printer,55.87,No,No,3.9,Resolved
+HIT-00532,2026-06-26,Laboratory,Clinical Application,Low,Network Device,25.36,No,Yes,4.0,Resolved
+HIT-00835,2026-06-26,Pharmacy,Printer,Medium,Laptop,9.62,No,Yes,4.6,Resolved
+HIT-00554,2026-06-26,Cardiology,Printer,Medium,Mobile Device,17.32,No,No,4.8,Resolved
+HIT-01181,2026-06-26,Pharmacy,Clinical Application,Low,Mobile Device,61.5,No,Yes,4.9,Resolved
+HIT-00709,2026-06-26,Cardiology,Hardware,Low,Network Device,75.3,No,No,5.0,Closed
+HIT-01192,2026-06-26,Administration,Clinical Application,High,Workstation,12.09,No,Yes,5.0,Closed
+HIT-00717,2026-06-26,Administration,Clinical Application,Medium,Mobile Device,19.14,No,Yes,5.0,Closed
+HIT-00237,2026-06-27,Administration,Telehealth,Medium,Printer,22.6,No,Yes,3.7,Resolved
+HIT-00998,2026-06-27,Radiology,Clinical Application,Low,Mobile Device,59.1,No,Yes,3.4,Closed
+HIT-00972,2026-06-27,Laboratory,EHR Access,Low,Desktop,46.55,No,No,4.0,Resolved
+HIT-00598,2026-06-27,Pharmacy,Clinical Application,Medium,Workstation,47.35,No,No,4.8,Resolved
+HIT-00683,2026-06-27,Emergency Department,Clinical Application,Medium,Mobile Device,13.62,No,Yes,5.0,Resolved
+HIT-00816,2026-06-27,Administration,Printer,Medium,Laptop,40.45,No,No,4.6,Resolved
+HIT-00488,2026-06-27,Administration,Hardware,Low,Workstation,73.25,No,No,3.6,Resolved
+HIT-00941,2026-06-28,Radiology,Telehealth,Low,Printer,36.17,Yes,No,4.3,Closed
+HIT-00946,2026-06-28,Pharmacy,EHR Access,High,Workstation,9.28,No,Yes,4.3,Resolved
+HIT-00768,2026-06-28,Pharmacy,Hardware,Medium,Desktop,19.74,No,Yes,4.7,Resolved
+HIT-00133,2026-06-28,Administration,Network,Low,Desktop,23.36,No,Yes,3.6,Closed
+HIT-00778,2026-06-28,Laboratory,Password/Account,High,Workstation,9.48,No,No,2.6,Resolved
+HIT-00493,2026-06-28,Administration,Password/Account,High,Network Device,8.25,No,Yes,3.9,Resolved
+HIT-01056,2026-06-28,Laboratory,EHR Access,High,Network Device,5.03,No,Yes,3.9,Closed
+HIT-00454,2026-06-28,Laboratory,Printer,High,Mobile Device,5.08,No,Yes,5.0,Resolved
+HIT-01050,2026-06-28,Primary Care,Hardware,High,Desktop,6.92,No,Yes,4.9,Closed
+HIT-01038,2026-06-28,Surgery,Email,Medium,Workstation,14.29,No,Yes,3.8,Closed
+HIT-01052,2026-06-28,Radiology,Network,High,Workstation,4.99,Yes,No,4.1,Resolved
+HIT-01175,2026-06-28,Primary Care,Email,Medium,Mobile Device,62.02,No,Yes,4.5,Resolved
+HIT-00002,2026-06-29,Administration,Hardware,High,Mobile Device,4.46,No,No,5.0,Closed
+HIT-00181,2026-06-29,Radiology,Clinical Application,High,Mobile Device,12.88,No,Yes,4.2,Closed
+HIT-00571,2026-06-29,Administration,EHR Access,Medium,Laptop,21.43,No,Yes,4.4,Resolved
+HIT-01082,2026-06-29,Surgery,Password/Account,Medium,Application,18.78,No,Yes,3.9,Resolved
+HIT-01156,2026-06-29,Laboratory,Hardware,High,Desktop,20.65,No,Yes,3.7,Resolved
+HIT-00906,2026-06-29,Laboratory,Password/Account,Low,Application,31.62,No,Yes,3.9,Resolved
+HIT-00472,2026-06-29,Administration,Clinical Application,Medium,Network Device,10.94,No,Yes,3.5,Closed
+HIT-00394,2026-06-29,Emergency Department,Network,Low,Laptop,55.14,No,Yes,4.5,Resolved
+HIT-01178,2026-06-29,Laboratory,Network,Low,Workstation,31.46,No,Yes,4.7,Closed
+HIT-00856,2026-06-29,Emergency Department,Password/Account,Medium,Printer,19.8,No,Yes,2.6,Resolved
+HIT-00330,2026-06-30,Cardiology,EHR Access,Low,Network Device,69.78,No,No,4.3,Resolved
+HIT-00579,2026-06-30,Surgery,Hardware,Low,Network Device,13.56,No,Yes,3.3,Resolved
+HIT-00730,2026-06-30,Cardiology,Password/Account,Medium,Mobile Device,13.91,No,Yes,3.3,Resolved
+HIT-00913,2026-06-30,Primary Care,Password/Account,Low,Application,49.68,No,Yes,4.5,Resolved
