@@ -50,9 +50,3 @@ Recommended slicers:
 
 ## Portfolio Story
 Use the dashboard to identify where an IT department may need additional training, documentation, workflow improvements, or technical resources. Because the data is simulated, do not present the findings as actual hospital performance.
-
-## Resume Version
-Healthcare IT Service Desk Dashboard | SQL, Power BI, Excel
-- Analyzed 1,200 simulated healthcare IT service requests to identify trends in ticket volume, resolution times, escalations, and recurring technical issues.
-- Developed SQL queries and KPI reporting to evaluate service desk performance across departments, priorities, and issue categories.
-- Designed an interactive Power BI dashboard to communicate operational trends and identify opportunities for workflow and support improvements.
